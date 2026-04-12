@@ -1,0 +1,2336 @@
+Exporter,Importer,Weapon,Year,Units,TIV,TIV_per_unit
+Algeria,Colombia,Tanks,2000,45,1935,43.0
+Algeria,Germany,Tanks,2000,13,312,24.0
+Australia,Switzerland,Tanks,2000,33,1089,33.0
+Australia,Mexico,Tanks,2000,16,528,33.0
+Australia,China,Tanks,2000,23,851,37.0
+Australia,Germany,Tanks,2000,13,156,12.0
+Australia,France,Missiles,2000,11,220,20.0
+Belgium,Australia,Tanks,2000,14,308,22.0
+Belgium,South Korea,Missiles,2000,38,1748,46.0
+Brazil,Germany,Tanks,2000,18,324,18.0
+Brazil,Japan,Missiles,2000,15,285,19.0
+Brazil,Greece,Aircraft,2000,11,242,22.0
+Brazil,Greece,Tanks,2000,44,748,17.0
+Brazil,United States,Aircraft,2000,14,392,28.0
+Canada,Israel,Tanks,2000,17,714,42.0
+Canada,France,Aircraft,2000,24,1176,49.0
+Canada,Turkey,Aircraft,2000,22,572,26.0
+Canada,United Kingdom,Missiles,2000,45,360,8.0
+Canada,Algeria,Missiles,2000,26,546,21.0
+China,Pakistan,Aircraft,2000,16,304,19.0
+China,Ukraine,Tanks,2000,41,1804,44.0
+China,Indonesia,Tanks,2000,5,140,28.0
+China,Japan,Missiles,2000,19,627,33.0
+Colombia,Iran,Aircraft,2000,29,406,14.0
+Colombia,Canada,Aircraft,2000,1,11,11.0
+Czech Republic,Romania,Missiles,2000,43,559,13.0
+Denmark,Japan,Missiles,2000,44,1232,28.0
+Denmark,Finland,Aircraft,2000,25,400,16.0
+Finland,Germany,Aircraft,2000,4,72,18.0
+France,Turkey,Aircraft,2000,28,1204,43.0
+France,Greece,Missiles,2000,45,855,19.0
+France,Belgium,Missiles,2000,9,162,18.0
+Germany,Canada,Missiles,2000,50,600,12.0
+Germany,Brazil,Tanks,2000,3,81,27.0
+Germany,Finland,Missiles,2000,17,765,45.0
+Greece,Germany,Aircraft,2000,10,360,36.0
+India,Germany,Tanks,2000,34,1632,48.0
+India,Philippines,Tanks,2000,6,210,35.0
+Iran,France,Missiles,2000,50,1850,37.0
+Iran,Brazil,Missiles,2000,42,672,16.0
+Iran,Pakistan,Missiles,2000,3,111,37.0
+Iraq,Greece,Aircraft,2000,32,1056,33.0
+Iraq,Iran,Tanks,2000,8,320,40.0
+Israel,Czech Republic,Missiles,2000,1,33,33.0
+Israel,Canada,Aircraft,2000,44,1672,38.0
+Italy,United States,Aircraft,2000,36,1224,34.0
+Italy,Iraq,Missiles,2000,18,288,16.0
+Italy,Mexico,Missiles,2000,4,80,20.0
+Italy,Netherlands,Aircraft,2000,16,688,43.0
+Italy,Pakistan,Aircraft,2000,19,817,43.0
+Italy,Australia,Aircraft,2000,22,660,30.0
+Italy,Algeria,Missiles,2000,32,1184,37.0
+Kuwait,United Kingdom,Tanks,2000,46,1288,28.0
+Kuwait,Norway,Aircraft,2000,20,140,7.0
+Kuwait,Netherlands,Aircraft,2000,46,552,12.0
+Kuwait,China,Missiles,2000,22,308,14.0
+Kuwait,Russia,Tanks,2000,6,216,36.0
+Mexico,Israel,Tanks,2000,24,384,16.0
+Mexico,Philippines,Missiles,2000,42,1932,46.0
+Norway,India,Aircraft,2000,26,208,8.0
+Norway,Singapore,Tanks,2000,16,768,48.0
+Norway,Kuwait,Tanks,2000,32,1120,35.0
+Pakistan,Denmark,Missiles,2000,6,72,12.0
+Philippines,South Korea,Missiles,2000,40,1920,48.0
+Philippines,Australia,Tanks,2000,2,42,21.0
+Poland,United Kingdom,Aircraft,2000,26,234,9.0
+Poland,Israel,Aircraft,2000,46,2254,49.0
+Romania,Kuwait,Aircraft,2000,40,1800,45.0
+Romania,France,Missiles,2000,12,588,49.0
+Romania,Germany,Missiles,2000,50,1850,37.0
+Romania,Czech Republic,Tanks,2000,42,1722,41.0
+Russia,India,Missiles,2000,48,1152,24.0
+Saudi Arabia,Mexico,Missiles,2000,32,896,28.0
+Saudi Arabia,Japan,Aircraft,2000,15,405,27.0
+Singapore,Australia,Tanks,2000,22,968,44.0
+South Korea,Finland,Missiles,2000,11,77,7.0
+Spain,South Korea,Tanks,2000,42,1008,24.0
+Spain,India,Aircraft,2000,1,37,37.0
+Sweden,Italy,Missiles,2000,43,688,16.0
+Sweden,Czech Republic,Tanks,2000,48,336,7.0
+Switzerland,Colombia,Tanks,2000,48,1344,28.0
+Switzerland,Belgium,Missiles,2000,14,378,27.0
+Switzerland,South Korea,Aircraft,2000,24,408,17.0
+Switzerland,Colombia,Missiles,2000,20,180,9.0
+Switzerland,Pakistan,Aircraft,2000,46,1380,30.0
+Taiwan,Israel,Aircraft,2000,2,60,30.0
+Taiwan,Romania,Missiles,2000,13,208,16.0
+Taiwan,Kuwait,Aircraft,2000,32,1024,32.0
+Taiwan,Germany,Tanks,2000,12,192,16.0
+Taiwan,Iran,Aircraft,2000,42,2016,48.0
+Turkey,Taiwan,Tanks,2000,38,608,16.0
+Turkey,Australia,Aircraft,2000,7,329,47.0
+Ukraine,Saudi Arabia,Missiles,2000,18,900,50.0
+United Kingdom,Mexico,Tanks,2000,39,663,17.0
+United States,Mexico,Missiles,2000,5,205,41.0
+Algeria,Spain,Aircraft,2001,24,912,38.0
+Algeria,United Kingdom,Missiles,2001,3,57,19.0
+Algeria,Pakistan,Tanks,2001,3,96,32.0
+Australia,Philippines,Aircraft,2001,46,1104,24.0
+Australia,Norway,Tanks,2001,21,441,21.0
+Belgium,Ukraine,Missiles,2001,42,210,5.0
+Belgium,Kuwait,Tanks,2001,35,315,9.0
+Belgium,Canada,Missiles,2001,1,45,45.0
+Belgium,Taiwan,Tanks,2001,31,1395,45.0
+Brazil,Czech Republic,Aircraft,2001,43,1161,27.0
+Brazil,Australia,Aircraft,2001,13,286,22.0
+Brazil,India,Aircraft,2001,10,480,48.0
+Canada,Finland,Aircraft,2001,8,216,27.0
+Canada,Australia,Tanks,2001,21,357,17.0
+Canada,Taiwan,Aircraft,2001,50,650,13.0
+China,Colombia,Tanks,2001,18,414,23.0
+Colombia,United Kingdom,Missiles,2001,30,540,18.0
+Colombia,Switzerland,Aircraft,2001,36,612,17.0
+Czech Republic,Russia,Aircraft,2001,45,270,6.0
+Czech Republic,South Korea,Aircraft,2001,11,66,6.0
+Denmark,Australia,Aircraft,2001,22,1012,46.0
+Denmark,Singapore,Tanks,2001,9,387,43.0
+Finland,Iraq,Aircraft,2001,23,184,8.0
+Finland,Mexico,Missiles,2001,26,702,27.0
+France,Turkey,Tanks,2001,33,792,24.0
+France,Ukraine,Aircraft,2001,44,220,5.0
+France,South Korea,Missiles,2001,40,760,19.0
+France,Philippines,Aircraft,2001,29,232,8.0
+France,Romania,Aircraft,2001,2,36,18.0
+Germany,Finland,Missiles,2001,37,1776,48.0
+Greece,United Kingdom,Missiles,2001,29,1073,37.0
+Greece,Singapore,Aircraft,2001,24,1128,47.0
+India,Colombia,Tanks,2001,45,2250,50.0
+India,Netherlands,Tanks,2001,7,161,23.0
+India,Indonesia,Missiles,2001,14,644,46.0
+Indonesia,Germany,Tanks,2001,47,2256,48.0
+Indonesia,France,Aircraft,2001,29,812,28.0
+Iran,Switzerland,Missiles,2001,39,741,19.0
+Iran,Switzerland,Aircraft,2001,23,667,29.0
+Iran,Sweden,Aircraft,2001,11,363,33.0
+Iran,Australia,Aircraft,2001,47,1880,40.0
+Iraq,Belgium,Aircraft,2001,5,85,17.0
+Israel,Iran,Aircraft,2001,43,645,15.0
+Israel,Norway,Missiles,2001,33,231,7.0
+Israel,Saudi Arabia,Missiles,2001,21,273,13.0
+Israel,Australia,Missiles,2001,41,2009,49.0
+Japan,Kuwait,Aircraft,2001,29,1450,50.0
+Japan,Taiwan,Aircraft,2001,14,168,12.0
+Kuwait,Taiwan,Tanks,2001,48,1296,27.0
+Kuwait,Iraq,Missiles,2001,6,102,17.0
+Mexico,Belgium,Aircraft,2001,24,144,6.0
+Mexico,Iran,Tanks,2001,10,130,13.0
+Mexico,Brazil,Tanks,2001,10,80,8.0
+Mexico,Romania,Tanks,2001,5,225,45.0
+Netherlands,Saudi Arabia,Aircraft,2001,48,2352,49.0
+Netherlands,Poland,Aircraft,2001,39,1131,29.0
+Norway,Netherlands,Tanks,2001,20,940,47.0
+Norway,Germany,Missiles,2001,23,1104,48.0
+Norway,Mexico,Aircraft,2001,32,448,14.0
+Pakistan,Australia,Tanks,2001,23,253,11.0
+Pakistan,Spain,Aircraft,2001,34,1496,44.0
+Pakistan,Turkey,Missiles,2001,10,380,38.0
+Pakistan,China,Aircraft,2001,9,387,43.0
+Philippines,Japan,Missiles,2001,46,506,11.0
+Philippines,United Kingdom,Tanks,2001,15,705,47.0
+Poland,India,Aircraft,2001,5,135,27.0
+Poland,Sweden,Aircraft,2001,9,45,5.0
+Romania,United Kingdom,Tanks,2001,39,1014,26.0
+Romania,Mexico,Missiles,2001,44,308,7.0
+Russia,India,Missiles,2001,45,765,17.0
+Russia,Romania,Tanks,2001,11,242,22.0
+Russia,Italy,Missiles,2001,13,416,32.0
+Russia,Israel,Missiles,2001,36,792,22.0
+Saudi Arabia,Iran,Tanks,2001,34,884,26.0
+South Korea,Iran,Tanks,2001,3,111,37.0
+South Korea,United States,Aircraft,2001,36,1584,44.0
+South Korea,Saudi Arabia,Aircraft,2001,15,585,39.0
+South Korea,Ukraine,Missiles,2001,24,144,6.0
+Spain,Iraq,Tanks,2001,16,560,35.0
+Spain,Singapore,Aircraft,2001,27,891,33.0
+Spain,Kuwait,Aircraft,2001,43,946,22.0
+Sweden,Israel,Aircraft,2001,22,1012,46.0
+Sweden,Kuwait,Missiles,2001,28,476,17.0
+Sweden,Turkey,Tanks,2001,30,360,12.0
+Switzerland,Pakistan,Missiles,2001,32,320,10.0
+Switzerland,China,Missiles,2001,31,1488,48.0
+Taiwan,Denmark,Missiles,2001,6,300,50.0
+Taiwan,India,Missiles,2001,5,190,38.0
+Taiwan,Indonesia,Tanks,2001,38,380,10.0
+Turkey,Romania,Aircraft,2001,29,1015,35.0
+Turkey,Australia,Missiles,2001,2,40,20.0
+Ukraine,Canada,Tanks,2001,31,1147,37.0
+United Kingdom,Czech Republic,Tanks,2001,7,245,35.0
+United States,Romania,Tanks,2001,49,637,13.0
+United States,Ukraine,Aircraft,2001,26,858,33.0
+United States,France,Tanks,2001,48,1968,41.0
+United States,Italy,Tanks,2001,34,1020,30.0
+Algeria,Israel,Missiles,2002,12,456,38.0
+Algeria,France,Aircraft,2002,42,2100,50.0
+Algeria,Russia,Missiles,2002,18,324,18.0
+Australia,Switzerland,Tanks,2002,46,920,20.0
+Australia,Indonesia,Tanks,2002,18,126,7.0
+Belgium,Canada,Missiles,2002,25,125,5.0
+Belgium,Saudi Arabia,Tanks,2002,19,798,42.0
+Belgium,Brazil,Tanks,2002,8,88,11.0
+Belgium,Denmark,Aircraft,2002,12,360,30.0
+Belgium,Norway,Missiles,2002,39,195,5.0
+Brazil,Ukraine,Tanks,2002,20,820,41.0
+Brazil,Finland,Missiles,2002,23,989,43.0
+Brazil,Indonesia,Tanks,2002,23,1058,46.0
+Canada,Switzerland,Aircraft,2002,27,324,12.0
+Colombia,Romania,Missiles,2002,49,2156,44.0
+Colombia,Poland,Tanks,2002,4,112,28.0
+Czech Republic,Turkey,Missiles,2002,17,170,10.0
+Denmark,Netherlands,Missiles,2002,50,450,9.0
+Denmark,Poland,Missiles,2002,2,82,41.0
+Denmark,Philippines,Missiles,2002,27,945,35.0
+Finland,Ukraine,Tanks,2002,5,35,7.0
+Finland,Sweden,Aircraft,2002,22,154,7.0
+Finland,Ukraine,Aircraft,2002,15,255,17.0
+Finland,Italy,Tanks,2002,3,99,33.0
+France,Sweden,Aircraft,2002,20,920,46.0
+France,Pakistan,Tanks,2002,50,2050,41.0
+France,Germany,Missiles,2002,41,1558,38.0
+France,United States,Tanks,2002,44,572,13.0
+Germany,Iraq,Missiles,2002,8,136,17.0
+Germany,France,Aircraft,2002,19,228,12.0
+Germany,Russia,Missiles,2002,27,486,18.0
+Germany,Canada,Aircraft,2002,14,560,40.0
+Germany,United Kingdom,Tanks,2002,3,69,23.0
+Greece,Philippines,Tanks,2002,50,2000,40.0
+Greece,Iraq,Missiles,2002,47,235,5.0
+Greece,Israel,Missiles,2002,42,1596,38.0
+India,Poland,Aircraft,2002,32,480,15.0
+India,Norway,Aircraft,2002,3,15,5.0
+India,Switzerland,Missiles,2002,35,1680,48.0
+India,Ukraine,Missiles,2002,47,752,16.0
+India,Norway,Aircraft,2002,23,138,6.0
+Indonesia,Spain,Tanks,2002,30,510,17.0
+Indonesia,United States,Missiles,2002,26,1170,45.0
+Indonesia,Netherlands,Aircraft,2002,25,800,32.0
+Iran,Ukraine,Missiles,2002,22,1056,48.0
+Iran,Romania,Aircraft,2002,50,1000,20.0
+Iraq,Algeria,Aircraft,2002,29,1044,36.0
+Iraq,South Korea,Missiles,2002,10,360,36.0
+Israel,Iran,Aircraft,2002,39,1092,28.0
+Israel,Iraq,Missiles,2002,41,328,8.0
+Israel,Pakistan,Tanks,2002,12,600,50.0
+Italy,Denmark,Aircraft,2002,1,48,48.0
+Italy,Algeria,Missiles,2002,31,1116,36.0
+Japan,Indonesia,Aircraft,2002,18,504,28.0
+Mexico,Pakistan,Tanks,2002,32,864,27.0
+Mexico,Italy,Aircraft,2002,4,100,25.0
+Netherlands,Singapore,Aircraft,2002,40,560,14.0
+Netherlands,Iran,Tanks,2002,6,42,7.0
+Netherlands,Denmark,Tanks,2002,6,192,32.0
+Netherlands,Belgium,Tanks,2002,46,1656,36.0
+Norway,Sweden,Tanks,2002,40,1840,46.0
+Norway,Romania,Tanks,2002,2,72,36.0
+Norway,France,Missiles,2002,50,650,13.0
+Norway,Belgium,Aircraft,2002,49,588,12.0
+Pakistan,Iraq,Tanks,2002,1,28,28.0
+Pakistan,Kuwait,Aircraft,2002,34,578,17.0
+Pakistan,Russia,Aircraft,2002,32,192,6.0
+Poland,Switzerland,Missiles,2002,18,756,42.0
+Romania,Italy,Missiles,2002,45,1125,25.0
+Romania,Australia,Aircraft,2002,44,572,13.0
+Romania,Greece,Aircraft,2002,13,247,19.0
+Russia,Netherlands,Aircraft,2002,2,12,6.0
+Russia,Brazil,Missiles,2002,6,264,44.0
+Saudi Arabia,Canada,Aircraft,2002,37,1443,39.0
+Singapore,Sweden,Missiles,2002,20,400,20.0
+South Korea,Turkey,Tanks,2002,37,592,16.0
+South Korea,Italy,Missiles,2002,27,1215,45.0
+South Korea,Iran,Tanks,2002,5,30,6.0
+South Korea,Australia,Tanks,2002,18,468,26.0
+Spain,Czech Republic,Missiles,2002,27,918,34.0
+Spain,United States,Tanks,2002,31,1426,46.0
+Spain,Denmark,Aircraft,2002,8,184,23.0
+Sweden,Mexico,Tanks,2002,38,1292,34.0
+Sweden,India,Tanks,2002,10,420,42.0
+Sweden,United Kingdom,Tanks,2002,6,276,46.0
+Switzerland,India,Missiles,2002,23,552,24.0
+Switzerland,Sweden,Tanks,2002,32,1344,42.0
+Turkey,Norway,Missiles,2002,39,1131,29.0
+Turkey,Australia,Aircraft,2002,4,52,13.0
+Ukraine,France,Aircraft,2002,27,1080,40.0
+United Kingdom,China,Tanks,2002,19,570,30.0
+United Kingdom,Singapore,Tanks,2002,27,378,14.0
+United Kingdom,United States,Aircraft,2002,22,990,45.0
+United Kingdom,India,Tanks,2002,42,756,18.0
+United States,Spain,Tanks,2002,34,340,10.0
+United States,Philippines,Aircraft,2002,23,322,14.0
+United States,Japan,Tanks,2002,27,864,32.0
+Algeria,Russia,Aircraft,2003,5,210,42.0
+Algeria,Canada,Aircraft,2003,34,1564,46.0
+Algeria,Netherlands,Tanks,2003,9,171,19.0
+Australia,Singapore,Aircraft,2003,35,385,11.0
+Australia,Denmark,Missiles,2003,25,1050,42.0
+Belgium,Russia,Aircraft,2003,30,360,12.0
+Belgium,Canada,Tanks,2003,12,108,9.0
+Belgium,Switzerland,Missiles,2003,27,243,9.0
+Brazil,France,Aircraft,2003,25,225,9.0
+Brazil,Saudi Arabia,Missiles,2003,42,672,16.0
+China,Romania,Missiles,2003,36,396,11.0
+China,United Kingdom,Aircraft,2003,28,1064,38.0
+China,Israel,Tanks,2003,49,1225,25.0
+China,South Korea,Aircraft,2003,23,943,41.0
+Colombia,Czech Republic,Tanks,2003,31,1271,41.0
+Colombia,Belgium,Tanks,2003,7,287,41.0
+Czech Republic,Australia,Tanks,2003,18,702,39.0
+Czech Republic,Iraq,Tanks,2003,4,132,33.0
+Czech Republic,Taiwan,Tanks,2003,40,480,12.0
+Denmark,Norway,Aircraft,2003,40,1520,38.0
+Finland,Singapore,Aircraft,2003,30,1020,34.0
+France,Denmark,Tanks,2003,15,630,42.0
+France,Japan,Aircraft,2003,27,405,15.0
+Germany,Australia,Missiles,2003,41,1722,42.0
+Greece,Belgium,Tanks,2003,27,756,28.0
+Greece,Spain,Aircraft,2003,17,238,14.0
+Greece,Taiwan,Tanks,2003,35,1365,39.0
+Greece,Denmark,Aircraft,2003,39,1443,37.0
+Greece,Romania,Missiles,2003,12,480,40.0
+Greece,Sweden,Tanks,2003,36,1800,50.0
+India,Poland,Aircraft,2003,22,704,32.0
+India,Canada,Tanks,2003,24,912,38.0
+India,United Kingdom,Aircraft,2003,27,702,26.0
+Indonesia,Canada,Missiles,2003,13,260,20.0
+Indonesia,Taiwan,Aircraft,2003,5,250,50.0
+Indonesia,Turkey,Aircraft,2003,18,432,24.0
+Iran,Australia,Missiles,2003,48,1152,24.0
+Iran,Brazil,Aircraft,2003,44,220,5.0
+Iran,China,Missiles,2003,23,713,31.0
+Iran,Japan,Tanks,2003,21,147,7.0
+Iran,Denmark,Aircraft,2003,17,493,29.0
+Iraq,United Kingdom,Tanks,2003,15,645,43.0
+Iraq,Australia,Tanks,2003,14,546,39.0
+Iraq,Romania,Tanks,2003,47,470,10.0
+Iraq,Norway,Missiles,2003,19,342,18.0
+Israel,Australia,Aircraft,2003,23,483,21.0
+Italy,Denmark,Missiles,2003,7,336,48.0
+Italy,Denmark,Aircraft,2003,46,552,12.0
+Kuwait,Philippines,Aircraft,2003,25,1050,42.0
+Kuwait,Poland,Aircraft,2003,33,1089,33.0
+Mexico,Poland,Aircraft,2003,50,600,12.0
+Mexico,India,Aircraft,2003,30,750,25.0
+Netherlands,France,Tanks,2003,39,273,7.0
+Netherlands,Russia,Aircraft,2003,21,1050,50.0
+Netherlands,Brazil,Tanks,2003,32,1472,46.0
+Netherlands,Spain,Missiles,2003,41,1763,43.0
+Norway,Germany,Tanks,2003,40,200,5.0
+Pakistan,Colombia,Aircraft,2003,9,90,10.0
+Pakistan,Turkey,Missiles,2003,31,806,26.0
+Philippines,Italy,Tanks,2003,31,217,7.0
+Philippines,France,Aircraft,2003,19,912,48.0
+Philippines,Pakistan,Aircraft,2003,7,112,16.0
+Philippines,Canada,Missiles,2003,33,693,21.0
+Poland,Romania,Aircraft,2003,8,312,39.0
+Romania,Czech Republic,Missiles,2003,14,504,36.0
+Romania,South Korea,Missiles,2003,46,1288,28.0
+Romania,Algeria,Missiles,2003,41,697,17.0
+Russia,Poland,Aircraft,2003,27,486,18.0
+Russia,Brazil,Aircraft,2003,39,390,10.0
+Russia,Switzerland,Aircraft,2003,17,374,22.0
+Saudi Arabia,Brazil,Aircraft,2003,21,378,18.0
+Saudi Arabia,Japan,Missiles,2003,29,1450,50.0
+Singapore,Russia,Aircraft,2003,46,2070,45.0
+South Korea,Indonesia,Aircraft,2003,34,1292,38.0
+South Korea,Israel,Aircraft,2003,18,252,14.0
+South Korea,Sweden,Missiles,2003,46,2254,49.0
+Spain,Algeria,Aircraft,2003,15,300,20.0
+Spain,Iran,Aircraft,2003,30,1350,45.0
+Sweden,Spain,Missiles,2003,13,104,8.0
+Switzerland,Turkey,Missiles,2003,47,1081,23.0
+Switzerland,Ukraine,Aircraft,2003,19,646,34.0
+Switzerland,Iran,Aircraft,2003,17,85,5.0
+Switzerland,United States,Aircraft,2003,3,51,17.0
+Taiwan,South Korea,Missiles,2003,47,846,18.0
+Taiwan,Algeria,Aircraft,2003,33,990,30.0
+Taiwan,South Korea,Tanks,2003,29,377,13.0
+Turkey,Belgium,Missiles,2003,27,810,30.0
+Turkey,Finland,Aircraft,2003,23,828,36.0
+Turkey,Russia,Aircraft,2003,6,264,44.0
+Turkey,Italy,Aircraft,2003,13,234,18.0
+Ukraine,Germany,Missiles,2003,9,207,23.0
+United Kingdom,Indonesia,Missiles,2003,18,252,14.0
+United Kingdom,Poland,Tanks,2003,7,336,48.0
+United Kingdom,Finland,Missiles,2003,9,315,35.0
+United Kingdom,Belgium,Aircraft,2003,47,2162,46.0
+United States,Saudi Arabia,Tanks,2003,38,342,9.0
+United States,Brazil,Aircraft,2003,7,112,16.0
+United States,Germany,Tanks,2003,12,432,36.0
+Algeria,Australia,Tanks,2004,46,2070,45.0
+Algeria,Czech Republic,Tanks,2004,50,2150,43.0
+Australia,Belgium,Aircraft,2004,34,1530,45.0
+Brazil,Taiwan,Missiles,2004,29,1044,36.0
+Brazil,Singapore,Tanks,2004,5,55,11.0
+Brazil,Iraq,Aircraft,2004,26,234,9.0
+Brazil,Philippines,Missiles,2004,24,1128,47.0
+Canada,Indonesia,Tanks,2004,36,864,24.0
+Canada,France,Missiles,2004,47,752,16.0
+Canada,Italy,Tanks,2004,15,480,32.0
+China,Denmark,Aircraft,2004,26,286,11.0
+China,Turkey,Aircraft,2004,2,96,48.0
+China,Israel,Missiles,2004,28,1008,36.0
+Colombia,Finland,Tanks,2004,12,372,31.0
+Colombia,China,Missiles,2004,32,1152,36.0
+Colombia,Philippines,Aircraft,2004,33,1650,50.0
+Czech Republic,Mexico,Missiles,2004,17,374,22.0
+Finland,Czech Republic,Tanks,2004,8,384,48.0
+Finland,Ukraine,Tanks,2004,34,884,26.0
+France,United States,Missiles,2004,44,1760,40.0
+France,United Kingdom,Tanks,2004,2,88,44.0
+France,Finland,Missiles,2004,8,352,44.0
+Germany,Mexico,Missiles,2004,20,760,38.0
+Greece,Norway,Aircraft,2004,28,196,7.0
+Greece,Colombia,Aircraft,2004,33,1254,38.0
+Greece,Poland,Missiles,2004,21,525,25.0
+Greece,India,Tanks,2004,13,429,33.0
+Greece,Mexico,Tanks,2004,26,1248,48.0
+Indonesia,India,Tanks,2004,7,154,22.0
+Indonesia,Poland,Aircraft,2004,12,72,6.0
+Indonesia,Czech Republic,Aircraft,2004,13,416,32.0
+Iraq,Israel,Tanks,2004,50,2300,46.0
+Iraq,Germany,Aircraft,2004,10,60,6.0
+Iraq,Netherlands,Tanks,2004,3,57,19.0
+Israel,Denmark,Missiles,2004,24,696,29.0
+Israel,Canada,Tanks,2004,37,851,23.0
+Israel,Belgium,Aircraft,2004,19,266,14.0
+Israel,Japan,Tanks,2004,22,352,16.0
+Israel,India,Tanks,2004,17,425,25.0
+Israel,Poland,Aircraft,2004,13,78,6.0
+Japan,United Kingdom,Missiles,2004,1,50,50.0
+Japan,Sweden,Missiles,2004,2,100,50.0
+Kuwait,Taiwan,Missiles,2004,22,792,36.0
+Kuwait,Iraq,Tanks,2004,49,1960,40.0
+Kuwait,Colombia,Missiles,2004,42,1218,29.0
+Mexico,Singapore,Aircraft,2004,38,798,21.0
+Mexico,Australia,Missiles,2004,15,270,18.0
+Mexico,Russia,Aircraft,2004,21,924,44.0
+Netherlands,Colombia,Missiles,2004,32,704,22.0
+Netherlands,Greece,Tanks,2004,37,592,16.0
+Norway,Pakistan,Aircraft,2004,23,253,11.0
+Pakistan,Ukraine,Missiles,2004,29,1218,42.0
+Pakistan,Israel,Missiles,2004,14,700,50.0
+Philippines,Mexico,Missiles,2004,27,1188,44.0
+Philippines,Switzerland,Aircraft,2004,46,1978,43.0
+Poland,Finland,Tanks,2004,38,1368,36.0
+Romania,Philippines,Missiles,2004,47,470,10.0
+Romania,France,Missiles,2004,44,1012,23.0
+Russia,Finland,Tanks,2004,34,1632,48.0
+Russia,Romania,Tanks,2004,28,1344,48.0
+Russia,Ukraine,Tanks,2004,36,972,27.0
+Russia,Kuwait,Aircraft,2004,50,1450,29.0
+Russia,Czech Republic,Aircraft,2004,47,2068,44.0
+Russia,South Korea,Tanks,2004,25,950,38.0
+Russia,Kuwait,Aircraft,2004,19,817,43.0
+Saudi Arabia,Spain,Missiles,2004,23,115,5.0
+Saudi Arabia,Taiwan,Aircraft,2004,16,624,39.0
+Saudi Arabia,Denmark,Tanks,2004,31,651,21.0
+Singapore,Australia,Tanks,2004,10,450,45.0
+Singapore,Turkey,Tanks,2004,6,156,26.0
+Spain,Greece,Aircraft,2004,12,552,46.0
+Spain,Iran,Tanks,2004,8,176,22.0
+Sweden,Netherlands,Missiles,2004,15,345,23.0
+Sweden,Czech Republic,Missiles,2004,50,400,8.0
+Sweden,Russia,Aircraft,2004,43,989,23.0
+Sweden,Poland,Missiles,2004,28,1008,36.0
+Switzerland,Philippines,Missiles,2004,30,840,28.0
+Switzerland,Netherlands,Missiles,2004,7,70,10.0
+Switzerland,Saudi Arabia,Aircraft,2004,17,408,24.0
+Switzerland,Canada,Missiles,2004,46,506,11.0
+Taiwan,Turkey,Tanks,2004,45,855,19.0
+Taiwan,Singapore,Aircraft,2004,49,2107,43.0
+Taiwan,India,Aircraft,2004,32,1504,47.0
+Taiwan,South Korea,Missiles,2004,2,48,24.0
+Taiwan,South Korea,Tanks,2004,14,98,7.0
+Taiwan,Colombia,Missiles,2004,39,234,6.0
+Turkey,Spain,Aircraft,2004,25,450,18.0
+Turkey,Germany,Aircraft,2004,6,240,40.0
+Turkey,Sweden,Tanks,2004,35,1645,47.0
+Turkey,Australia,Aircraft,2004,24,648,27.0
+Turkey,Denmark,Missiles,2004,17,119,7.0
+Ukraine,Singapore,Missiles,2004,40,1720,43.0
+Ukraine,Italy,Missiles,2004,12,96,8.0
+Ukraine,Italy,Aircraft,2004,24,264,11.0
+United Kingdom,Czech Republic,Aircraft,2004,47,940,20.0
+United Kingdom,Philippines,Aircraft,2004,45,765,17.0
+United States,Belgium,Aircraft,2004,25,1025,41.0
+United States,Ukraine,Tanks,2004,48,1440,30.0
+Algeria,Iran,Tanks,2005,28,1176,42.0
+Algeria,Czech Republic,Tanks,2005,25,450,18.0
+Australia,Netherlands,Aircraft,2005,26,130,5.0
+Australia,Switzerland,Tanks,2005,33,264,8.0
+Australia,Saudi Arabia,Aircraft,2005,41,492,12.0
+Belgium,Poland,Tanks,2005,38,1064,28.0
+Belgium,Philippines,Tanks,2005,50,650,13.0
+Brazil,Czech Republic,Missiles,2005,14,210,15.0
+Canada,Netherlands,Aircraft,2005,18,828,46.0
+Canada,Australia,Aircraft,2005,13,221,17.0
+Canada,Norway,Tanks,2005,41,1558,38.0
+Canada,Switzerland,Tanks,2005,17,323,19.0
+Canada,Israel,Tanks,2005,28,1008,36.0
+Canada,Netherlands,Tanks,2005,42,1722,41.0
+Canada,United States,Missiles,2005,35,700,20.0
+China,Iraq,Missiles,2005,7,329,47.0
+China,Australia,Tanks,2005,42,1554,37.0
+Colombia,Singapore,Missiles,2005,45,2070,46.0
+Czech Republic,Russia,Aircraft,2005,33,1023,31.0
+Czech Republic,Taiwan,Aircraft,2005,19,589,31.0
+Czech Republic,Germany,Missiles,2005,27,486,18.0
+Finland,Pakistan,Missiles,2005,8,296,37.0
+Finland,South Korea,Missiles,2005,37,1369,37.0
+Finland,Kuwait,Aircraft,2005,29,319,11.0
+Finland,Iraq,Aircraft,2005,9,396,44.0
+Finland,Norway,Tanks,2005,33,1155,35.0
+Finland,Saudi Arabia,Aircraft,2005,20,540,27.0
+France,Russia,Tanks,2005,34,884,26.0
+France,Israel,Tanks,2005,22,440,20.0
+Greece,United States,Missiles,2005,23,966,42.0
+Greece,Iran,Tanks,2005,9,270,30.0
+India,Japan,Tanks,2005,31,155,5.0
+Indonesia,Brazil,Aircraft,2005,17,816,48.0
+Indonesia,Greece,Tanks,2005,48,1536,32.0
+Iran,Belgium,Missiles,2005,33,330,10.0
+Iran,Saudi Arabia,Missiles,2005,13,533,41.0
+Iraq,Japan,Aircraft,2005,44,1980,45.0
+Iraq,Italy,Tanks,2005,31,1116,36.0
+Iraq,Czech Republic,Missiles,2005,20,540,27.0
+Iraq,India,Tanks,2005,30,1200,40.0
+Israel,Turkey,Missiles,2005,14,532,38.0
+Israel,Algeria,Missiles,2005,18,378,21.0
+Italy,Turkey,Aircraft,2005,10,490,49.0
+Italy,United States,Tanks,2005,34,1088,32.0
+Italy,France,Tanks,2005,36,936,26.0
+Italy,Turkey,Tanks,2005,16,688,43.0
+Italy,Kuwait,Aircraft,2005,7,126,18.0
+Kuwait,Poland,Tanks,2005,15,555,37.0
+Kuwait,Mexico,Missiles,2005,23,575,25.0
+Mexico,Pakistan,Tanks,2005,4,28,7.0
+Netherlands,Turkey,Tanks,2005,35,420,12.0
+Netherlands,Spain,Aircraft,2005,11,363,33.0
+Norway,Indonesia,Tanks,2005,48,1968,41.0
+Norway,Iraq,Aircraft,2005,3,96,32.0
+Norway,India,Aircraft,2005,43,817,19.0
+Norway,Ukraine,Missiles,2005,4,200,50.0
+Norway,Turkey,Aircraft,2005,39,1638,42.0
+Pakistan,Czech Republic,Aircraft,2005,27,1053,39.0
+Pakistan,Canada,Tanks,2005,44,660,15.0
+Pakistan,Israel,Missiles,2005,17,459,27.0
+Philippines,Iran,Missiles,2005,7,329,47.0
+Philippines,Singapore,Tanks,2005,9,234,26.0
+Poland,Turkey,Aircraft,2005,26,130,5.0
+Poland,Brazil,Tanks,2005,24,912,38.0
+Romania,Taiwan,Missiles,2005,25,275,11.0
+Romania,United States,Missiles,2005,38,1292,34.0
+Russia,Germany,Missiles,2005,38,266,7.0
+Saudi Arabia,Colombia,Missiles,2005,8,264,33.0
+Saudi Arabia,Norway,Missiles,2005,25,375,15.0
+Saudi Arabia,Poland,Missiles,2005,34,306,9.0
+Saudi Arabia,Czech Republic,Missiles,2005,39,468,12.0
+Saudi Arabia,Japan,Missiles,2005,4,52,13.0
+Singapore,Turkey,Aircraft,2005,5,140,28.0
+Singapore,China,Missiles,2005,2,80,40.0
+South Korea,Australia,Tanks,2005,15,105,7.0
+South Korea,Australia,Aircraft,2005,38,1558,41.0
+South Korea,France,Aircraft,2005,7,322,46.0
+South Korea,Czech Republic,Missiles,2005,48,2352,49.0
+South Korea,Iraq,Aircraft,2005,47,470,10.0
+Sweden,Canada,Tanks,2005,10,250,25.0
+Sweden,Turkey,Tanks,2005,45,945,21.0
+Sweden,Finland,Aircraft,2005,2,18,9.0
+Switzerland,Turkey,Tanks,2005,13,611,47.0
+Switzerland,Finland,Missiles,2005,7,231,33.0
+Switzerland,Saudi Arabia,Aircraft,2005,50,2450,49.0
+Switzerland,Czech Republic,Missiles,2005,11,231,21.0
+Switzerland,Germany,Missiles,2005,33,363,11.0
+Taiwan,Russia,Missiles,2005,28,840,30.0
+Taiwan,Finland,Tanks,2005,41,1025,25.0
+Taiwan,United Kingdom,Aircraft,2005,29,696,24.0
+Turkey,Norway,Tanks,2005,35,1225,35.0
+Ukraine,Indonesia,Missiles,2005,28,560,20.0
+Ukraine,Norway,Tanks,2005,30,420,14.0
+Ukraine,Denmark,Aircraft,2005,45,540,12.0
+United Kingdom,Colombia,Tanks,2005,2,28,14.0
+United Kingdom,Israel,Aircraft,2005,46,1150,25.0
+United Kingdom,Iraq,Aircraft,2005,29,435,15.0
+United States,Colombia,Aircraft,2005,23,1058,46.0
+Algeria,Germany,Missiles,2006,30,840,28.0
+Algeria,Germany,Missiles,2006,9,225,25.0
+Algeria,United States,Tanks,2006,21,630,30.0
+Algeria,Denmark,Tanks,2006,49,1519,31.0
+Algeria,Japan,Tanks,2006,16,672,42.0
+Belgium,Algeria,Tanks,2006,38,722,19.0
+Belgium,Sweden,Missiles,2006,22,396,18.0
+Brazil,Singapore,Aircraft,2006,18,864,48.0
+Brazil,Singapore,Aircraft,2006,22,418,19.0
+Brazil,Switzerland,Aircraft,2006,32,1024,32.0
+Canada,India,Aircraft,2006,9,90,10.0
+Canada,Singapore,Tanks,2006,36,1224,34.0
+Canada,Philippines,Tanks,2006,5,80,16.0
+China,Germany,Aircraft,2006,43,344,8.0
+China,Saudi Arabia,Missiles,2006,6,264,44.0
+Colombia,United States,Tanks,2006,43,1720,40.0
+Colombia,Australia,Tanks,2006,49,392,8.0
+Colombia,Kuwait,Tanks,2006,18,522,29.0
+Czech Republic,Colombia,Missiles,2006,3,114,38.0
+Czech Republic,Germany,Tanks,2006,37,481,13.0
+Czech Republic,Iran,Aircraft,2006,35,1750,50.0
+Denmark,Italy,Missiles,2006,10,80,8.0
+Denmark,Ukraine,Missiles,2006,16,496,31.0
+Finland,Italy,Aircraft,2006,7,175,25.0
+France,Turkey,Tanks,2006,8,328,41.0
+Germany,Iraq,Tanks,2006,23,989,43.0
+Germany,Canada,Tanks,2006,24,216,9.0
+Germany,Italy,Aircraft,2006,12,408,34.0
+Germany,Poland,Missiles,2006,18,108,6.0
+Greece,Israel,Missiles,2006,37,1628,44.0
+Greece,Sweden,Tanks,2006,27,891,33.0
+Greece,Turkey,Tanks,2006,5,150,30.0
+Greece,United States,Aircraft,2006,36,648,18.0
+India,United States,Aircraft,2006,31,961,31.0
+Indonesia,Japan,Tanks,2006,10,230,23.0
+Indonesia,Germany,Tanks,2006,14,672,48.0
+Iran,Saudi Arabia,Missiles,2006,31,372,12.0
+Iraq,Taiwan,Aircraft,2006,18,90,5.0
+Israel,Greece,Aircraft,2006,12,372,31.0
+Israel,Iran,Missiles,2006,38,1216,32.0
+Israel,Russia,Missiles,2006,6,216,36.0
+Israel,Algeria,Aircraft,2006,18,666,37.0
+Italy,Norway,Tanks,2006,21,420,20.0
+Italy,Russia,Missiles,2006,14,322,23.0
+Italy,United Kingdom,Missiles,2006,25,725,29.0
+Italy,Norway,Missiles,2006,29,638,22.0
+Japan,Philippines,Aircraft,2006,22,682,31.0
+Japan,Taiwan,Aircraft,2006,19,171,9.0
+Kuwait,Pakistan,Missiles,2006,36,1620,45.0
+Mexico,Italy,Tanks,2006,21,609,29.0
+Mexico,Canada,Missiles,2006,44,1408,32.0
+Mexico,Germany,Tanks,2006,23,161,7.0
+Netherlands,Taiwan,Aircraft,2006,13,624,48.0
+Netherlands,Brazil,Missiles,2006,11,429,39.0
+Netherlands,Saudi Arabia,Aircraft,2006,43,1978,46.0
+Norway,Greece,Tanks,2006,27,918,34.0
+Norway,Pakistan,Missiles,2006,21,168,8.0
+Pakistan,India,Aircraft,2006,32,448,14.0
+Philippines,Poland,Tanks,2006,8,360,45.0
+Philippines,Japan,Tanks,2006,37,592,16.0
+Philippines,United States,Missiles,2006,39,585,15.0
+Philippines,Denmark,Missiles,2006,15,630,42.0
+Philippines,China,Tanks,2006,29,435,15.0
+Poland,Belgium,Missiles,2006,44,1584,36.0
+Russia,Colombia,Tanks,2006,8,128,16.0
+Russia,Belgium,Aircraft,2006,17,102,6.0
+Russia,Switzerland,Tanks,2006,15,435,29.0
+Saudi Arabia,Iraq,Aircraft,2006,47,987,21.0
+Saudi Arabia,Iran,Tanks,2006,28,1036,37.0
+Saudi Arabia,Russia,Aircraft,2006,3,108,36.0
+Singapore,Denmark,Aircraft,2006,7,301,43.0
+Singapore,Colombia,Tanks,2006,9,198,22.0
+Singapore,Romania,Missiles,2006,17,119,7.0
+Singapore,Romania,Tanks,2006,6,264,44.0
+South Korea,India,Aircraft,2006,48,1968,41.0
+South Korea,Spain,Aircraft,2006,13,364,28.0
+South Korea,Norway,Tanks,2006,6,204,34.0
+Spain,Denmark,Aircraft,2006,4,160,40.0
+Spain,United Kingdom,Tanks,2006,36,936,26.0
+Spain,Philippines,Aircraft,2006,42,1050,25.0
+Sweden,Brazil,Tanks,2006,25,850,34.0
+Sweden,Indonesia,Aircraft,2006,22,616,28.0
+Switzerland,Australia,Tanks,2006,9,63,7.0
+Switzerland,Iran,Aircraft,2006,28,756,27.0
+Taiwan,Mexico,Aircraft,2006,30,1200,40.0
+Turkey,Romania,Aircraft,2006,42,924,22.0
+Turkey,Singapore,Aircraft,2006,42,1428,34.0
+Ukraine,South Korea,Missiles,2006,39,663,17.0
+United Kingdom,Czech Republic,Missiles,2006,16,288,18.0
+United Kingdom,South Korea,Tanks,2006,14,490,35.0
+United Kingdom,Ukraine,Tanks,2006,6,126,21.0
+United Kingdom,Singapore,Missiles,2006,41,1886,46.0
+United States,Denmark,Aircraft,2006,15,690,46.0
+United States,China,Aircraft,2006,44,528,12.0
+United States,Singapore,Aircraft,2006,30,1470,49.0
+United States,Brazil,Tanks,2006,37,999,27.0
+Algeria,Germany,Aircraft,2007,18,792,44.0
+Algeria,United Kingdom,Missiles,2007,13,273,21.0
+Algeria,United States,Tanks,2007,7,273,39.0
+Australia,Philippines,Tanks,2007,39,1638,42.0
+Canada,Norway,Missiles,2007,50,1050,21.0
+Canada,Algeria,Aircraft,2007,1,12,12.0
+Canada,Japan,Missiles,2007,16,336,21.0
+China,Ukraine,Missiles,2007,29,1334,46.0
+China,South Korea,Aircraft,2007,20,560,28.0
+China,United States,Missiles,2007,9,180,20.0
+China,Turkey,Tanks,2007,15,375,25.0
+Colombia,Brazil,Missiles,2007,45,2205,49.0
+Colombia,Belgium,Aircraft,2007,10,480,48.0
+Colombia,Indonesia,Aircraft,2007,28,868,31.0
+Czech Republic,Germany,Tanks,2007,9,342,38.0
+Denmark,India,Tanks,2007,35,1225,35.0
+Denmark,Switzerland,Tanks,2007,44,924,21.0
+Denmark,Pakistan,Missiles,2007,35,910,26.0
+Denmark,Romania,Aircraft,2007,1,32,32.0
+Finland,Brazil,Tanks,2007,30,750,25.0
+Finland,France,Missiles,2007,5,115,23.0
+France,Mexico,Tanks,2007,18,162,9.0
+Germany,Russia,Aircraft,2007,35,1365,39.0
+Germany,Russia,Tanks,2007,18,504,28.0
+Germany,Mexico,Tanks,2007,10,420,42.0
+Greece,Australia,Tanks,2007,32,1280,40.0
+Greece,Germany,Tanks,2007,18,504,28.0
+Greece,Mexico,Tanks,2007,16,368,23.0
+Greece,Israel,Aircraft,2007,40,920,23.0
+Greece,Denmark,Aircraft,2007,30,1500,50.0
+India,Pakistan,Aircraft,2007,45,1845,41.0
+India,Romania,Aircraft,2007,22,660,30.0
+Indonesia,Spain,Tanks,2007,41,1722,42.0
+Indonesia,Saudi Arabia,Tanks,2007,24,456,19.0
+Iran,Switzerland,Tanks,2007,9,234,26.0
+Iran,Japan,Missiles,2007,24,912,38.0
+Iraq,India,Missiles,2007,1,30,30.0
+Iraq,Indonesia,Aircraft,2007,48,960,20.0
+Iraq,Czech Republic,Tanks,2007,5,135,27.0
+Israel,Netherlands,Missiles,2007,42,1260,30.0
+Israel,Saudi Arabia,Missiles,2007,50,250,5.0
+Italy,Saudi Arabia,Aircraft,2007,26,234,9.0
+Italy,Sweden,Tanks,2007,23,115,5.0
+Italy,Sweden,Aircraft,2007,2,62,31.0
+Japan,France,Missiles,2007,38,798,21.0
+Mexico,Turkey,Tanks,2007,35,1295,37.0
+Mexico,Iran,Aircraft,2007,32,160,5.0
+Mexico,Israel,Tanks,2007,15,285,19.0
+Mexico,Turkey,Aircraft,2007,47,517,11.0
+Netherlands,Mexico,Tanks,2007,29,1363,47.0
+Netherlands,Canada,Missiles,2007,21,693,33.0
+Norway,Taiwan,Tanks,2007,15,225,15.0
+Norway,Finland,Missiles,2007,41,533,13.0
+Norway,Philippines,Aircraft,2007,35,1435,41.0
+Norway,Greece,Tanks,2007,33,462,14.0
+Norway,United States,Tanks,2007,50,300,6.0
+Norway,Israel,Tanks,2007,36,936,26.0
+Norway,Australia,Missiles,2007,31,1054,34.0
+Pakistan,Kuwait,Aircraft,2007,46,2208,48.0
+Pakistan,Belgium,Tanks,2007,18,792,44.0
+Philippines,Spain,Missiles,2007,19,285,15.0
+Philippines,Ukraine,Tanks,2007,7,140,20.0
+Philippines,Brazil,Tanks,2007,50,2150,43.0
+Philippines,Poland,Aircraft,2007,47,846,18.0
+Philippines,Colombia,Tanks,2007,37,518,14.0
+Philippines,Pakistan,Missiles,2007,38,456,12.0
+Poland,Finland,Missiles,2007,9,234,26.0
+Poland,Romania,Aircraft,2007,1,40,40.0
+Romania,Turkey,Missiles,2007,24,1104,46.0
+Romania,Saudi Arabia,Tanks,2007,25,1050,42.0
+Romania,Denmark,Aircraft,2007,13,117,9.0
+Saudi Arabia,United States,Tanks,2007,37,1258,34.0
+Saudi Arabia,Greece,Tanks,2007,19,133,7.0
+Saudi Arabia,China,Aircraft,2007,8,152,19.0
+Singapore,Denmark,Tanks,2007,23,1150,50.0
+Singapore,Sweden,Aircraft,2007,23,690,30.0
+Singapore,Kuwait,Aircraft,2007,40,1560,39.0
+Singapore,Ukraine,Missiles,2007,40,1360,34.0
+South Korea,Iran,Aircraft,2007,37,370,10.0
+Spain,Sweden,Missiles,2007,35,1750,50.0
+Sweden,Russia,Missiles,2007,46,1196,26.0
+Taiwan,Italy,Aircraft,2007,33,1056,32.0
+Taiwan,Norway,Tanks,2007,5,105,21.0
+Taiwan,Belgium,Aircraft,2007,41,574,14.0
+Taiwan,Brazil,Tanks,2007,6,222,37.0
+Taiwan,India,Tanks,2007,4,96,24.0
+Turkey,Poland,Missiles,2007,46,1564,34.0
+Turkey,Saudi Arabia,Aircraft,2007,19,323,17.0
+Turkey,Poland,Aircraft,2007,29,1015,35.0
+Turkey,Pakistan,Missiles,2007,47,517,11.0
+Ukraine,Israel,Tanks,2007,15,120,8.0
+Ukraine,Italy,Aircraft,2007,3,54,18.0
+United Kingdom,Mexico,Tanks,2007,30,450,15.0
+United Kingdom,Greece,Tanks,2007,32,160,5.0
+United Kingdom,Romania,Aircraft,2007,38,950,25.0
+United Kingdom,Italy,Tanks,2007,32,1152,36.0
+United States,Norway,Missiles,2007,13,403,31.0
+United States,Saudi Arabia,Aircraft,2007,6,222,37.0
+United States,India,Aircraft,2007,3,78,26.0
+Algeria,Australia,Aircraft,2008,21,147,7.0
+Algeria,Denmark,Tanks,2008,35,1645,47.0
+Algeria,Indonesia,Missiles,2008,9,234,26.0
+Algeria,United Kingdom,Missiles,2008,32,448,14.0
+Algeria,Indonesia,Tanks,2008,47,376,8.0
+Algeria,Israel,Missiles,2008,43,1806,42.0
+Australia,France,Aircraft,2008,28,840,30.0
+Australia,Canada,Aircraft,2008,41,369,9.0
+Australia,Mexico,Aircraft,2008,5,85,17.0
+Belgium,Colombia,Aircraft,2008,49,1813,37.0
+Belgium,United States,Aircraft,2008,46,1426,31.0
+Brazil,Philippines,Missiles,2008,25,700,28.0
+Brazil,United States,Tanks,2008,25,625,25.0
+Brazil,Switzerland,Aircraft,2008,6,168,28.0
+Brazil,United States,Aircraft,2008,32,1184,37.0
+Canada,Australia,Tanks,2008,21,693,33.0
+China,Denmark,Tanks,2008,18,360,20.0
+China,Denmark,Missiles,2008,15,210,14.0
+China,Norway,Missiles,2008,11,506,46.0
+China,Philippines,Tanks,2008,1,21,21.0
+China,Finland,Tanks,2008,41,1722,42.0
+Colombia,Pakistan,Aircraft,2008,29,406,14.0
+Colombia,United States,Aircraft,2008,5,35,7.0
+Denmark,Czech Republic,Missiles,2008,31,1240,40.0
+Denmark,United States,Aircraft,2008,34,1190,35.0
+Denmark,Australia,Missiles,2008,2,58,29.0
+Denmark,Kuwait,Aircraft,2008,24,792,33.0
+Denmark,Spain,Tanks,2008,16,176,11.0
+Finland,Denmark,Missiles,2008,23,322,14.0
+Finland,Mexico,Tanks,2008,11,231,21.0
+Finland,United States,Missiles,2008,13,637,49.0
+Finland,Turkey,Aircraft,2008,47,1363,29.0
+Finland,China,Tanks,2008,14,126,9.0
+Finland,Czech Republic,Missiles,2008,5,45,9.0
+Germany,Brazil,Tanks,2008,15,645,43.0
+Germany,Russia,Aircraft,2008,4,188,47.0
+Greece,Canada,Tanks,2008,48,336,7.0
+Greece,Switzerland,Aircraft,2008,19,931,49.0
+India,Indonesia,Aircraft,2008,30,900,30.0
+India,Kuwait,Aircraft,2008,37,925,25.0
+India,Turkey,Missiles,2008,1,41,41.0
+Indonesia,Colombia,Tanks,2008,8,384,48.0
+Iran,Switzerland,Aircraft,2008,4,60,15.0
+Iran,Canada,Missiles,2008,32,416,13.0
+Iraq,Israel,Missiles,2008,31,620,20.0
+Iraq,Netherlands,Missiles,2008,35,875,25.0
+Israel,Czech Republic,Tanks,2008,21,819,39.0
+Israel,Pakistan,Aircraft,2008,39,351,9.0
+Italy,China,Aircraft,2008,45,2070,46.0
+Japan,Saudi Arabia,Missiles,2008,14,168,12.0
+Japan,Colombia,Tanks,2008,20,880,44.0
+Kuwait,Algeria,Tanks,2008,33,1023,31.0
+Kuwait,Pakistan,Tanks,2008,41,1148,28.0
+Kuwait,Poland,Aircraft,2008,35,210,6.0
+Mexico,Denmark,Tanks,2008,35,1645,47.0
+Mexico,Iraq,Missiles,2008,17,391,23.0
+Mexico,India,Aircraft,2008,30,270,9.0
+Netherlands,Pakistan,Aircraft,2008,2,78,39.0
+Netherlands,Ukraine,Missiles,2008,5,155,31.0
+Norway,Turkey,Missiles,2008,17,204,12.0
+Norway,Colombia,Missiles,2008,29,812,28.0
+Pakistan,Czech Republic,Tanks,2008,2,44,22.0
+Pakistan,Iraq,Missiles,2008,35,1330,38.0
+Philippines,Ukraine,Tanks,2008,50,2300,46.0
+Philippines,Iran,Aircraft,2008,30,960,32.0
+Philippines,Iraq,Missiles,2008,17,136,8.0
+Poland,Netherlands,Tanks,2008,37,1221,33.0
+Poland,Ukraine,Aircraft,2008,49,1372,28.0
+Poland,Australia,Missiles,2008,34,442,13.0
+Romania,Mexico,Missiles,2008,43,1161,27.0
+Romania,Sweden,Missiles,2008,34,782,23.0
+Romania,Switzerland,Tanks,2008,34,646,19.0
+Romania,Kuwait,Aircraft,2008,1,29,29.0
+Romania,Colombia,Tanks,2008,33,858,26.0
+Romania,Norway,Tanks,2008,31,1271,41.0
+Russia,Czech Republic,Missiles,2008,50,1300,26.0
+Saudi Arabia,India,Aircraft,2008,20,520,26.0
+Singapore,Germany,Aircraft,2008,1,15,15.0
+Singapore,Netherlands,Tanks,2008,12,288,24.0
+Singapore,Denmark,Tanks,2008,46,1012,22.0
+South Korea,Pakistan,Tanks,2008,43,2107,49.0
+South Korea,Belgium,Missiles,2008,48,1632,34.0
+Spain,Czech Republic,Missiles,2008,8,376,47.0
+Spain,Canada,Missiles,2008,5,240,48.0
+Sweden,Belgium,Missiles,2008,30,1470,49.0
+Sweden,Algeria,Missiles,2008,45,270,6.0
+Switzerland,Saudi Arabia,Missiles,2008,25,1175,47.0
+Switzerland,Saudi Arabia,Tanks,2008,3,57,19.0
+Turkey,Norway,Aircraft,2008,4,48,12.0
+Turkey,Sweden,Aircraft,2008,41,2009,49.0
+Turkey,Taiwan,Missiles,2008,25,250,10.0
+Ukraine,Brazil,Missiles,2008,12,372,31.0
+Ukraine,Brazil,Missiles,2008,26,364,14.0
+Ukraine,Iraq,Aircraft,2008,2,52,26.0
+Ukraine,Algeria,Aircraft,2008,36,684,19.0
+United Kingdom,United States,Aircraft,2008,20,820,41.0
+United Kingdom,Netherlands,Tanks,2008,17,816,48.0
+Algeria,Indonesia,Missiles,2009,38,1254,33.0
+Algeria,Italy,Tanks,2009,20,580,29.0
+Algeria,Turkey,Missiles,2009,14,602,43.0
+Australia,Colombia,Tanks,2009,7,343,49.0
+Australia,Italy,Aircraft,2009,40,1680,42.0
+Australia,India,Tanks,2009,25,150,6.0
+Australia,Turkey,Tanks,2009,34,306,9.0
+Australia,Iran,Tanks,2009,47,1692,36.0
+Belgium,United States,Tanks,2009,6,30,5.0
+Belgium,Pakistan,Aircraft,2009,48,528,11.0
+Belgium,China,Tanks,2009,21,420,20.0
+Brazil,China,Tanks,2009,50,2100,42.0
+Brazil,France,Missiles,2009,16,800,50.0
+Canada,Pakistan,Tanks,2009,47,705,15.0
+Canada,Russia,Missiles,2009,42,588,14.0
+Canada,Singapore,Tanks,2009,13,637,49.0
+Canada,Romania,Aircraft,2009,23,460,20.0
+China,Taiwan,Missiles,2009,21,231,11.0
+China,Greece,Missiles,2009,30,1230,41.0
+China,Czech Republic,Tanks,2009,49,2254,46.0
+Colombia,Romania,Tanks,2009,11,330,30.0
+Colombia,Czech Republic,Aircraft,2009,30,780,26.0
+Colombia,Philippines,Tanks,2009,42,210,5.0
+Colombia,Denmark,Tanks,2009,11,132,12.0
+Colombia,Iran,Aircraft,2009,33,1023,31.0
+Colombia,Ukraine,Tanks,2009,19,437,23.0
+Czech Republic,Brazil,Aircraft,2009,12,444,37.0
+Czech Republic,Kuwait,Tanks,2009,48,1824,38.0
+Czech Republic,Algeria,Missiles,2009,25,550,22.0
+Czech Republic,Pakistan,Missiles,2009,37,1147,31.0
+Denmark,Iran,Missiles,2009,12,372,31.0
+Denmark,Sweden,Missiles,2009,25,625,25.0
+Finland,Russia,Missiles,2009,36,216,6.0
+Finland,China,Missiles,2009,20,640,32.0
+Finland,Iran,Tanks,2009,43,817,19.0
+Finland,Russia,Tanks,2009,29,870,30.0
+France,Norway,Aircraft,2009,25,950,38.0
+France,Taiwan,Tanks,2009,18,270,15.0
+Germany,Norway,Aircraft,2009,23,368,16.0
+Germany,Norway,Aircraft,2009,24,960,40.0
+Germany,France,Missiles,2009,43,1892,44.0
+Germany,India,Tanks,2009,11,143,13.0
+Greece,Israel,Missiles,2009,12,432,36.0
+Greece,Iran,Aircraft,2009,41,492,12.0
+Greece,Taiwan,Aircraft,2009,33,792,24.0
+Greece,Canada,Tanks,2009,42,882,21.0
+India,Canada,Missiles,2009,38,1520,40.0
+Indonesia,Romania,Tanks,2009,19,456,24.0
+Indonesia,Israel,Tanks,2009,13,533,41.0
+Indonesia,Pakistan,Tanks,2009,41,984,24.0
+Indonesia,Germany,Missiles,2009,36,1476,41.0
+Indonesia,Australia,Aircraft,2009,18,864,48.0
+Iran,India,Missiles,2009,36,216,6.0
+Iran,Kuwait,Missiles,2009,30,360,12.0
+Iran,Israel,Aircraft,2009,3,126,42.0
+Iraq,Russia,Tanks,2009,15,315,21.0
+Iraq,Algeria,Missiles,2009,4,80,20.0
+Israel,Greece,Aircraft,2009,8,112,14.0
+Israel,India,Tanks,2009,7,294,42.0
+Israel,India,Aircraft,2009,42,798,19.0
+Italy,Israel,Missiles,2009,48,288,6.0
+Italy,Pakistan,Missiles,2009,3,21,7.0
+Italy,Iraq,Aircraft,2009,48,1104,23.0
+Kuwait,Turkey,Aircraft,2009,28,1232,44.0
+Mexico,Spain,Aircraft,2009,4,88,22.0
+Mexico,Kuwait,Missiles,2009,39,702,18.0
+Mexico,South Korea,Tanks,2009,4,144,36.0
+Mexico,Norway,Missiles,2009,24,840,35.0
+Netherlands,United Kingdom,Tanks,2009,44,660,15.0
+Norway,France,Tanks,2009,2,94,47.0
+Norway,Taiwan,Tanks,2009,10,350,35.0
+Pakistan,Mexico,Missiles,2009,25,900,36.0
+Philippines,Sweden,Aircraft,2009,25,550,22.0
+Philippines,Finland,Aircraft,2009,6,144,24.0
+Philippines,Indonesia,Tanks,2009,16,768,48.0
+Poland,India,Aircraft,2009,49,1862,38.0
+Romania,Taiwan,Aircraft,2009,12,300,25.0
+Romania,Spain,Missiles,2009,45,1125,25.0
+Russia,Netherlands,Missiles,2009,15,285,19.0
+Saudi Arabia,Czech Republic,Tanks,2009,4,112,28.0
+Saudi Arabia,Taiwan,Missiles,2009,24,1080,45.0
+Saudi Arabia,Pakistan,Tanks,2009,49,2156,44.0
+Saudi Arabia,Taiwan,Tanks,2009,7,91,13.0
+Saudi Arabia,Sweden,Tanks,2009,13,650,50.0
+Singapore,Mexico,Missiles,2009,10,170,17.0
+South Korea,China,Tanks,2009,8,128,16.0
+South Korea,Belgium,Missiles,2009,3,93,31.0
+Sweden,Germany,Aircraft,2009,7,133,19.0
+Taiwan,Greece,Missiles,2009,4,176,44.0
+Turkey,Germany,Aircraft,2009,32,160,5.0
+Turkey,Iraq,Missiles,2009,44,968,22.0
+Turkey,Finland,Tanks,2009,44,1892,43.0
+Ukraine,Philippines,Missiles,2009,7,217,31.0
+Ukraine,Switzerland,Tanks,2009,4,124,31.0
+United Kingdom,China,Missiles,2009,35,315,9.0
+United Kingdom,Australia,Missiles,2009,37,1147,31.0
+United Kingdom,Netherlands,Tanks,2009,22,220,10.0
+United States,Singapore,Aircraft,2009,43,1204,28.0
+United States,Iran,Tanks,2009,20,320,16.0
+Algeria,Sweden,Aircraft,2010,5,155,31.0
+Australia,Spain,Tanks,2010,13,637,49.0
+Australia,United Kingdom,Aircraft,2010,25,1100,44.0
+Australia,Brazil,Tanks,2010,49,784,16.0
+Belgium,Italy,Aircraft,2010,13,117,9.0
+Belgium,Algeria,Tanks,2010,50,450,9.0
+Brazil,Algeria,Aircraft,2010,16,544,34.0
+Brazil,Norway,Aircraft,2010,21,609,29.0
+Canada,Greece,Tanks,2010,48,1344,28.0
+Canada,South Korea,Tanks,2010,17,374,22.0
+China,Switzerland,Tanks,2010,36,1620,45.0
+China,Russia,Missiles,2010,2,10,5.0
+China,Iran,Tanks,2010,9,189,21.0
+China,Pakistan,Missiles,2010,30,780,26.0
+Colombia,Spain,Aircraft,2010,50,2050,41.0
+Colombia,Spain,Tanks,2010,7,175,25.0
+Czech Republic,France,Missiles,2010,47,846,18.0
+Czech Republic,Germany,Aircraft,2010,33,1320,40.0
+Czech Republic,Brazil,Tanks,2010,21,777,37.0
+Czech Republic,Belgium,Tanks,2010,45,855,19.0
+Denmark,Spain,Aircraft,2010,19,361,19.0
+Denmark,India,Tanks,2010,44,264,6.0
+Finland,Canada,Missiles,2010,35,1400,40.0
+Finland,India,Aircraft,2010,1,16,16.0
+France,Turkey,Tanks,2010,45,1035,23.0
+France,Italy,Aircraft,2010,32,1216,38.0
+France,Finland,Tanks,2010,36,288,8.0
+France,Ukraine,Aircraft,2010,38,836,22.0
+Germany,United States,Tanks,2010,38,228,6.0
+Germany,Iran,Missiles,2010,17,629,37.0
+Germany,Belgium,Missiles,2010,21,315,15.0
+Germany,Algeria,Tanks,2010,30,720,24.0
+Greece,Pakistan,Missiles,2010,40,1560,39.0
+Greece,Denmark,Missiles,2010,6,294,49.0
+Greece,Russia,Missiles,2010,43,1290,30.0
+Greece,Finland,Aircraft,2010,45,1080,24.0
+Greece,Taiwan,Aircraft,2010,1,35,35.0
+India,Finland,Tanks,2010,42,504,12.0
+India,Poland,Aircraft,2010,17,408,24.0
+India,Poland,Aircraft,2010,47,1316,28.0
+India,France,Tanks,2010,4,100,25.0
+India,Indonesia,Aircraft,2010,3,102,34.0
+Indonesia,Pakistan,Missiles,2010,2,46,23.0
+Indonesia,Spain,Tanks,2010,48,240,5.0
+Iran,Belgium,Missiles,2010,39,1716,44.0
+Iran,Philippines,Missiles,2010,9,63,7.0
+Iran,Czech Republic,Missiles,2010,33,1518,46.0
+Iraq,Netherlands,Tanks,2010,14,378,27.0
+Iraq,India,Missiles,2010,29,899,31.0
+Iraq,Israel,Tanks,2010,24,1104,46.0
+Iraq,Ukraine,Tanks,2010,3,123,41.0
+Israel,Colombia,Aircraft,2010,1,29,29.0
+Israel,Mexico,Tanks,2010,23,529,23.0
+Italy,Belgium,Tanks,2010,2,100,50.0
+Japan,France,Tanks,2010,12,420,35.0
+Japan,Belgium,Tanks,2010,41,1107,27.0
+Japan,Greece,Missiles,2010,4,144,36.0
+Kuwait,Ukraine,Missiles,2010,13,247,19.0
+Kuwait,Indonesia,Tanks,2010,22,748,34.0
+Kuwait,Indonesia,Missiles,2010,46,506,11.0
+Kuwait,Mexico,Missiles,2010,6,102,17.0
+Mexico,Israel,Missiles,2010,42,2016,48.0
+Mexico,Singapore,Missiles,2010,8,344,43.0
+Netherlands,Iraq,Aircraft,2010,10,180,18.0
+Norway,Colombia,Missiles,2010,21,714,34.0
+Pakistan,Germany,Tanks,2010,4,28,7.0
+Philippines,United States,Tanks,2010,27,810,30.0
+Philippines,Turkey,Aircraft,2010,39,585,15.0
+Poland,France,Missiles,2010,50,1750,35.0
+Poland,Indonesia,Missiles,2010,43,2021,47.0
+Romania,France,Aircraft,2010,6,216,36.0
+Russia,Kuwait,Tanks,2010,22,242,11.0
+Russia,Finland,Missiles,2010,34,204,6.0
+Russia,Switzerland,Missiles,2010,28,560,20.0
+Saudi Arabia,Russia,Tanks,2010,32,1088,34.0
+Saudi Arabia,Norway,Missiles,2010,50,450,9.0
+Singapore,United States,Aircraft,2010,5,245,49.0
+South Korea,India,Missiles,2010,5,185,37.0
+South Korea,Japan,Aircraft,2010,36,1368,38.0
+Spain,Japan,Missiles,2010,7,308,44.0
+Spain,United States,Tanks,2010,48,864,18.0
+Sweden,Netherlands,Tanks,2010,39,1677,43.0
+Sweden,Finland,Aircraft,2010,37,925,25.0
+Switzerland,South Korea,Missiles,2010,17,833,49.0
+Switzerland,Belgium,Tanks,2010,28,1036,37.0
+Taiwan,Australia,Tanks,2010,46,2300,50.0
+Taiwan,China,Aircraft,2010,50,500,10.0
+Taiwan,Brazil,Aircraft,2010,18,414,23.0
+Taiwan,Saudi Arabia,Missiles,2010,34,1258,37.0
+Turkey,Indonesia,Tanks,2010,19,855,45.0
+Turkey,South Korea,Aircraft,2010,11,154,14.0
+Ukraine,Czech Republic,Aircraft,2010,26,728,28.0
+Ukraine,Philippines,Aircraft,2010,13,442,34.0
+Ukraine,Saudi Arabia,Missiles,2010,3,90,30.0
+Ukraine,Spain,Aircraft,2010,23,1035,45.0
+United Kingdom,United States,Missiles,2010,35,1050,30.0
+United States,Finland,Aircraft,2010,4,200,50.0
+Algeria,Saudi Arabia,Aircraft,2011,1,46,46.0
+Algeria,Taiwan,Missiles,2011,13,650,50.0
+Algeria,Norway,Aircraft,2011,32,1568,49.0
+Algeria,Australia,Aircraft,2011,25,850,34.0
+Algeria,Turkey,Aircraft,2011,22,396,18.0
+Belgium,Mexico,Aircraft,2011,10,200,20.0
+Belgium,Poland,Tanks,2011,38,1900,50.0
+Canada,Philippines,Tanks,2011,42,882,21.0
+Canada,South Korea,Tanks,2011,41,1640,40.0
+China,Australia,Aircraft,2011,33,660,20.0
+China,Ukraine,Missiles,2011,12,312,26.0
+Colombia,Netherlands,Missiles,2011,32,800,25.0
+Colombia,Canada,Aircraft,2011,16,256,16.0
+Czech Republic,Colombia,Missiles,2011,22,968,44.0
+Czech Republic,Japan,Aircraft,2011,36,432,12.0
+Czech Republic,France,Aircraft,2011,13,533,41.0
+Czech Republic,Norway,Missiles,2011,26,1066,41.0
+Denmark,Finland,Missiles,2011,50,700,14.0
+Finland,Colombia,Tanks,2011,12,492,41.0
+Finland,Romania,Tanks,2011,17,425,25.0
+France,Germany,Tanks,2011,1,18,18.0
+France,Iraq,Tanks,2011,33,957,29.0
+Germany,Russia,Aircraft,2011,13,598,46.0
+Germany,Spain,Missiles,2011,42,1806,43.0
+Greece,Mexico,Tanks,2011,19,285,15.0
+Greece,Finland,Aircraft,2011,1,48,48.0
+India,United Kingdom,Missiles,2011,18,198,11.0
+India,Brazil,Aircraft,2011,41,574,14.0
+India,Greece,Missiles,2011,37,1850,50.0
+Indonesia,Germany,Aircraft,2011,48,768,16.0
+Indonesia,Germany,Aircraft,2011,28,756,27.0
+Indonesia,Sweden,Tanks,2011,6,48,8.0
+Indonesia,Netherlands,Aircraft,2011,12,504,42.0
+Indonesia,United States,Missiles,2011,1,11,11.0
+Iran,Iraq,Tanks,2011,49,2352,48.0
+Iran,Denmark,Missiles,2011,50,1750,35.0
+Iraq,Czech Republic,Tanks,2011,2,70,35.0
+Israel,France,Aircraft,2011,7,266,38.0
+Israel,Norway,Aircraft,2011,42,714,17.0
+Israel,Poland,Tanks,2011,31,744,24.0
+Italy,France,Missiles,2011,15,180,12.0
+Italy,Kuwait,Tanks,2011,45,990,22.0
+Italy,India,Tanks,2011,4,52,13.0
+Japan,Indonesia,Aircraft,2011,43,1075,25.0
+Japan,Denmark,Aircraft,2011,42,1050,25.0
+Japan,United States,Aircraft,2011,50,1550,31.0
+Mexico,Greece,Aircraft,2011,29,435,15.0
+Mexico,Russia,Aircraft,2011,41,492,12.0
+Mexico,Italy,Aircraft,2011,33,1452,44.0
+Mexico,Russia,Aircraft,2011,21,546,26.0
+Netherlands,Israel,Aircraft,2011,4,20,5.0
+Netherlands,Saudi Arabia,Tanks,2011,22,374,17.0
+Pakistan,Israel,Aircraft,2011,22,550,25.0
+Pakistan,Belgium,Missiles,2011,21,840,40.0
+Pakistan,Philippines,Tanks,2011,2,24,12.0
+Poland,Norway,Missiles,2011,10,280,28.0
+Poland,Greece,Aircraft,2011,47,376,8.0
+Poland,Switzerland,Aircraft,2011,38,380,10.0
+Poland,Ukraine,Tanks,2011,18,576,32.0
+Poland,Russia,Tanks,2011,22,638,29.0
+Poland,Finland,Aircraft,2011,43,1462,34.0
+Russia,Finland,Tanks,2011,11,385,35.0
+Russia,India,Aircraft,2011,9,81,9.0
+Saudi Arabia,Ukraine,Tanks,2011,9,189,21.0
+Singapore,France,Tanks,2011,15,135,9.0
+Singapore,South Korea,Aircraft,2011,23,736,32.0
+Singapore,Kuwait,Missiles,2011,20,720,36.0
+Spain,Brazil,Aircraft,2011,9,63,7.0
+Spain,Taiwan,Aircraft,2011,36,1332,37.0
+Spain,Turkey,Tanks,2011,9,351,39.0
+Sweden,Spain,Missiles,2011,45,1620,36.0
+Sweden,Pakistan,Missiles,2011,43,1806,42.0
+Sweden,Poland,Tanks,2011,46,1380,30.0
+Sweden,South Korea,Aircraft,2011,13,117,9.0
+Switzerland,Indonesia,Tanks,2011,41,820,20.0
+Switzerland,India,Missiles,2011,21,126,6.0
+Taiwan,China,Tanks,2011,16,768,48.0
+Taiwan,Pakistan,Aircraft,2011,5,195,39.0
+Taiwan,Sweden,Missiles,2011,47,2350,50.0
+Turkey,India,Missiles,2011,30,1290,43.0
+Turkey,Sweden,Tanks,2011,33,759,23.0
+Turkey,Italy,Tanks,2011,38,1368,36.0
+Ukraine,Sweden,Missiles,2011,18,108,6.0
+Ukraine,Sweden,Tanks,2011,27,864,32.0
+United Kingdom,Italy,Tanks,2011,39,975,25.0
+United Kingdom,Switzerland,Tanks,2011,27,756,28.0
+United Kingdom,Sweden,Tanks,2011,21,819,39.0
+United Kingdom,Indonesia,Missiles,2011,39,1482,38.0
+United Kingdom,United States,Aircraft,2011,2,14,7.0
+United States,Spain,Missiles,2011,24,936,39.0
+Algeria,Brazil,Tanks,2012,24,840,35.0
+Algeria,Czech Republic,Tanks,2012,19,741,39.0
+Australia,Spain,Aircraft,2012,32,1440,45.0
+Australia,Indonesia,Missiles,2012,12,192,16.0
+Belgium,Iran,Aircraft,2012,8,128,16.0
+Brazil,Netherlands,Tanks,2012,42,1218,29.0
+Canada,Mexico,Missiles,2012,50,400,8.0
+Canada,Philippines,Aircraft,2012,21,315,15.0
+China,Belgium,Missiles,2012,1,22,22.0
+China,Kuwait,Missiles,2012,45,900,20.0
+China,Belgium,Tanks,2012,4,168,42.0
+Colombia,Denmark,Aircraft,2012,21,504,24.0
+Colombia,Ukraine,Tanks,2012,44,748,17.0
+Colombia,Norway,Aircraft,2012,48,624,13.0
+Colombia,Ukraine,Missiles,2012,47,2350,50.0
+Czech Republic,Poland,Missiles,2012,18,522,29.0
+Czech Republic,Japan,Tanks,2012,14,644,46.0
+Czech Republic,Pakistan,Aircraft,2012,15,255,17.0
+Czech Republic,Iran,Missiles,2012,14,546,39.0
+Denmark,Romania,Aircraft,2012,12,432,36.0
+Denmark,Ukraine,Missiles,2012,26,130,5.0
+Denmark,Japan,Tanks,2012,20,960,48.0
+Finland,Colombia,Tanks,2012,14,602,43.0
+France,Iraq,Aircraft,2012,38,1254,33.0
+France,India,Missiles,2012,23,529,23.0
+France,Singapore,Tanks,2012,28,1036,37.0
+Greece,Brazil,Missiles,2012,42,294,7.0
+India,South Korea,Tanks,2012,44,880,20.0
+Indonesia,Ukraine,Missiles,2012,7,210,30.0
+Indonesia,Canada,Missiles,2012,9,216,24.0
+Indonesia,Australia,Tanks,2012,28,1316,47.0
+Indonesia,Colombia,Missiles,2012,23,483,21.0
+Iran,Israel,Tanks,2012,30,450,15.0
+Iran,France,Tanks,2012,2,74,37.0
+Iran,South Korea,Tanks,2012,7,196,28.0
+Iraq,Israel,Missiles,2012,34,986,29.0
+Italy,Norway,Missiles,2012,43,258,6.0
+Italy,Norway,Missiles,2012,26,546,21.0
+Italy,Greece,Tanks,2012,16,704,44.0
+Italy,Spain,Tanks,2012,14,392,28.0
+Japan,Indonesia,Tanks,2012,29,1102,38.0
+Japan,Italy,Missiles,2012,42,588,14.0
+Kuwait,Indonesia,Tanks,2012,28,1064,38.0
+Kuwait,Poland,Aircraft,2012,10,450,45.0
+Kuwait,Mexico,Aircraft,2012,46,1656,36.0
+Kuwait,Greece,Missiles,2012,42,378,9.0
+Mexico,Brazil,Aircraft,2012,33,1320,40.0
+Mexico,Italy,Tanks,2012,47,2350,50.0
+Mexico,Sweden,Aircraft,2012,4,56,14.0
+Netherlands,India,Tanks,2012,37,1554,42.0
+Netherlands,Israel,Missiles,2012,10,310,31.0
+Netherlands,Kuwait,Aircraft,2012,29,812,28.0
+Pakistan,Taiwan,Aircraft,2012,17,714,42.0
+Pakistan,Saudi Arabia,Aircraft,2012,35,665,19.0
+Philippines,Finland,Aircraft,2012,23,782,34.0
+Philippines,United States,Tanks,2012,23,529,23.0
+Philippines,Finland,Tanks,2012,20,940,47.0
+Philippines,Canada,Missiles,2012,14,168,12.0
+Poland,Czech Republic,Missiles,2012,16,208,13.0
+Poland,France,Aircraft,2012,2,18,9.0
+Poland,Netherlands,Aircraft,2012,24,912,38.0
+Poland,Netherlands,Aircraft,2012,3,90,30.0
+Romania,Poland,Aircraft,2012,39,234,6.0
+Romania,Iran,Missiles,2012,22,110,5.0
+Romania,Switzerland,Missiles,2012,39,1443,37.0
+Russia,Iraq,Tanks,2012,41,205,5.0
+Russia,Pakistan,Aircraft,2012,29,899,31.0
+Russia,Belgium,Tanks,2012,50,1150,23.0
+Russia,Australia,Missiles,2012,25,375,15.0
+Saudi Arabia,Australia,Tanks,2012,3,72,24.0
+Singapore,Netherlands,Missiles,2012,8,216,27.0
+Singapore,Finland,Tanks,2012,48,1392,29.0
+Singapore,Norway,Aircraft,2012,41,1722,42.0
+South Korea,Poland,Aircraft,2012,37,555,15.0
+South Korea,India,Tanks,2012,48,624,13.0
+South Korea,Japan,Aircraft,2012,6,90,15.0
+Spain,Australia,Tanks,2012,43,1462,34.0
+Spain,Taiwan,Tanks,2012,15,600,40.0
+Sweden,Belgium,Tanks,2012,48,1584,33.0
+Sweden,Saudi Arabia,Missiles,2012,44,1188,27.0
+Sweden,Romania,Aircraft,2012,14,574,41.0
+Switzerland,Pakistan,Tanks,2012,49,1323,27.0
+Switzerland,South Korea,Tanks,2012,1,47,47.0
+Switzerland,Taiwan,Aircraft,2012,7,105,15.0
+Switzerland,Brazil,Aircraft,2012,2,68,34.0
+Taiwan,Denmark,Aircraft,2012,34,1360,40.0
+Taiwan,Norway,Missiles,2012,27,1242,46.0
+Taiwan,Belgium,Tanks,2012,37,1221,33.0
+Turkey,Italy,Tanks,2012,6,36,6.0
+Ukraine,Philippines,Tanks,2012,4,128,32.0
+Ukraine,Iran,Tanks,2012,23,782,34.0
+United Kingdom,Israel,Aircraft,2012,50,2250,45.0
+United States,Canada,Aircraft,2012,43,473,11.0
+United States,Iraq,Tanks,2012,49,245,5.0
+United States,Switzerland,Tanks,2012,38,798,21.0
+United States,Canada,Tanks,2012,8,208,26.0
+United States,Netherlands,Tanks,2012,9,225,25.0
+Algeria,Colombia,Aircraft,2013,12,588,49.0
+Algeria,Mexico,Aircraft,2013,27,270,10.0
+Australia,Saudi Arabia,Missiles,2013,5,55,11.0
+Australia,Israel,Aircraft,2013,45,1440,32.0
+Australia,United Kingdom,Missiles,2013,44,1892,43.0
+Australia,Sweden,Missiles,2013,23,828,36.0
+Belgium,Mexico,Aircraft,2013,11,440,40.0
+Brazil,Greece,Aircraft,2013,22,924,42.0
+Brazil,Saudi Arabia,Aircraft,2013,40,560,14.0
+China,Brazil,Aircraft,2013,29,174,6.0
+China,Norway,Missiles,2013,3,60,20.0
+China,Algeria,Tanks,2013,21,378,18.0
+China,Brazil,Aircraft,2013,19,570,30.0
+China,India,Aircraft,2013,17,221,13.0
+China,Greece,Missiles,2013,49,392,8.0
+Colombia,Taiwan,Missiles,2013,31,310,10.0
+Colombia,Singapore,Missiles,2013,17,187,11.0
+Colombia,Kuwait,Aircraft,2013,36,432,12.0
+Czech Republic,Norway,Aircraft,2013,36,396,11.0
+Czech Republic,Indonesia,Aircraft,2013,19,912,48.0
+Denmark,Singapore,Tanks,2013,16,576,36.0
+Denmark,Indonesia,Missiles,2013,38,760,20.0
+Finland,Norway,Tanks,2013,8,208,26.0
+Finland,Turkey,Aircraft,2013,3,30,10.0
+Finland,Norway,Missiles,2013,4,124,31.0
+Finland,Denmark,Missiles,2013,26,546,21.0
+France,Saudi Arabia,Missiles,2013,33,495,15.0
+France,Switzerland,Tanks,2013,43,2021,47.0
+Germany,Czech Republic,Missiles,2013,8,152,19.0
+Germany,China,Aircraft,2013,37,1221,33.0
+Germany,Greece,Missiles,2013,50,800,16.0
+Greece,Romania,Tanks,2013,28,280,10.0
+Greece,Sweden,Aircraft,2013,13,221,17.0
+Indonesia,Finland,Aircraft,2013,7,336,48.0
+Iran,Singapore,Tanks,2013,45,1215,27.0
+Iran,Pakistan,Missiles,2013,29,522,18.0
+Iraq,Iran,Tanks,2013,3,105,35.0
+Israel,Iran,Tanks,2013,37,666,18.0
+Israel,Russia,Missiles,2013,26,130,5.0
+Israel,Sweden,Missiles,2013,49,294,6.0
+Italy,Kuwait,Tanks,2013,47,1786,38.0
+Italy,Kuwait,Aircraft,2013,12,456,38.0
+Italy,Denmark,Tanks,2013,33,231,7.0
+Italy,Poland,Missiles,2013,34,544,16.0
+Italy,Romania,Aircraft,2013,30,1110,37.0
+Japan,Saudi Arabia,Aircraft,2013,15,690,46.0
+Japan,Canada,Tanks,2013,4,56,14.0
+Japan,Germany,Missiles,2013,38,1406,37.0
+Japan,Singapore,Missiles,2013,8,272,34.0
+Japan,Italy,Missiles,2013,8,48,6.0
+Japan,Ukraine,Tanks,2013,30,1110,37.0
+Japan,Colombia,Missiles,2013,3,135,45.0
+Kuwait,Germany,Aircraft,2013,50,1550,31.0
+Kuwait,Israel,Aircraft,2013,11,517,47.0
+Mexico,Iran,Missiles,2013,43,516,12.0
+Mexico,Taiwan,Aircraft,2013,35,735,21.0
+Netherlands,Spain,Tanks,2013,6,216,36.0
+Netherlands,United States,Aircraft,2013,47,1128,24.0
+Netherlands,Saudi Arabia,Tanks,2013,41,1435,35.0
+Norway,Canada,Aircraft,2013,34,1394,41.0
+Norway,Iran,Tanks,2013,21,588,28.0
+Pakistan,South Korea,Missiles,2013,3,81,27.0
+Pakistan,Israel,Missiles,2013,19,228,12.0
+Pakistan,Netherlands,Aircraft,2013,1,8,8.0
+Pakistan,Spain,Missiles,2013,3,57,19.0
+Philippines,Taiwan,Tanks,2013,8,224,28.0
+Poland,Spain,Missiles,2013,5,230,46.0
+Romania,China,Tanks,2013,1,38,38.0
+Russia,Iran,Tanks,2013,27,621,23.0
+Russia,Mexico,Missiles,2013,2,90,45.0
+Saudi Arabia,Turkey,Missiles,2013,43,1978,46.0
+Saudi Arabia,Brazil,Aircraft,2013,43,215,5.0
+Saudi Arabia,Czech Republic,Aircraft,2013,43,1591,37.0
+Singapore,Taiwan,Missiles,2013,29,609,21.0
+Singapore,United States,Missiles,2013,2,64,32.0
+South Korea,Turkey,Missiles,2013,1,27,27.0
+South Korea,China,Aircraft,2013,31,341,11.0
+South Korea,India,Aircraft,2013,26,1144,44.0
+Spain,Kuwait,Tanks,2013,38,1862,49.0
+Spain,Indonesia,Aircraft,2013,18,864,48.0
+Sweden,Algeria,Missiles,2013,13,611,47.0
+Sweden,Netherlands,Missiles,2013,23,874,38.0
+Switzerland,South Korea,Aircraft,2013,3,75,25.0
+Switzerland,Canada,Aircraft,2013,4,56,14.0
+Switzerland,France,Tanks,2013,5,180,36.0
+Taiwan,Czech Republic,Missiles,2013,49,1764,36.0
+Taiwan,Ukraine,Aircraft,2013,47,893,19.0
+Taiwan,Brazil,Aircraft,2013,32,896,28.0
+Taiwan,Netherlands,Aircraft,2013,23,782,34.0
+Taiwan,China,Aircraft,2013,37,1776,48.0
+Turkey,Belgium,Tanks,2013,39,1872,48.0
+Turkey,Netherlands,Aircraft,2013,31,372,12.0
+Ukraine,Algeria,Missiles,2013,49,931,19.0
+Ukraine,United Kingdom,Tanks,2013,7,189,27.0
+United Kingdom,Greece,Missiles,2013,43,989,23.0
+United Kingdom,Czech Republic,Aircraft,2013,36,1800,50.0
+United Kingdom,Italy,Missiles,2013,38,722,19.0
+United States,Indonesia,Aircraft,2013,22,506,23.0
+Algeria,Kuwait,Tanks,2014,5,185,37.0
+Australia,Iran,Tanks,2014,29,522,18.0
+Australia,Mexico,Tanks,2014,12,168,14.0
+Belgium,Sweden,Tanks,2014,3,54,18.0
+Belgium,Norway,Missiles,2014,32,1504,47.0
+Belgium,Poland,Tanks,2014,42,1638,39.0
+Belgium,United States,Missiles,2014,30,180,6.0
+Belgium,United Kingdom,Tanks,2014,2,54,27.0
+Belgium,Taiwan,Aircraft,2014,7,63,9.0
+Brazil,China,Tanks,2014,43,1247,29.0
+Brazil,Israel,Missiles,2014,9,342,38.0
+Canada,Spain,Aircraft,2014,22,286,13.0
+China,Germany,Missiles,2014,44,1760,40.0
+China,South Korea,Tanks,2014,39,1053,27.0
+China,Netherlands,Missiles,2014,24,792,33.0
+Colombia,Israel,Tanks,2014,28,952,34.0
+Colombia,Czech Republic,Tanks,2014,15,540,36.0
+Czech Republic,Japan,Aircraft,2014,4,176,44.0
+Czech Republic,Singapore,Missiles,2014,33,396,12.0
+Czech Republic,Indonesia,Missiles,2014,48,1632,34.0
+Denmark,Iraq,Missiles,2014,4,92,23.0
+Denmark,Brazil,Tanks,2014,41,1107,27.0
+Finland,Czech Republic,Tanks,2014,41,779,19.0
+France,Indonesia,Missiles,2014,39,1209,31.0
+Germany,Australia,Tanks,2014,12,528,44.0
+Germany,Iraq,Tanks,2014,4,112,28.0
+Germany,Norway,Tanks,2014,4,116,29.0
+Germany,South Korea,Tanks,2014,41,2009,49.0
+Germany,Greece,Missiles,2014,30,1350,45.0
+Greece,Netherlands,Tanks,2014,32,1312,41.0
+Greece,United States,Tanks,2014,6,180,30.0
+India,Germany,Tanks,2014,36,180,5.0
+Indonesia,Saudi Arabia,Tanks,2014,18,576,32.0
+Iran,Czech Republic,Tanks,2014,45,1710,38.0
+Iran,Switzerland,Aircraft,2014,23,391,17.0
+Iraq,Russia,Aircraft,2014,34,1088,32.0
+Iraq,Czech Republic,Tanks,2014,23,1081,47.0
+Israel,Indonesia,Tanks,2014,12,312,26.0
+Israel,Iraq,Missiles,2014,47,1974,42.0
+Israel,Italy,Aircraft,2014,17,595,35.0
+Israel,Philippines,Tanks,2014,40,400,10.0
+Italy,Japan,Aircraft,2014,40,200,5.0
+Italy,Switzerland,Tanks,2014,7,133,19.0
+Italy,Brazil,Missiles,2014,7,301,43.0
+Japan,Romania,Aircraft,2014,22,1012,46.0
+Kuwait,Italy,Missiles,2014,25,875,35.0
+Kuwait,Spain,Aircraft,2014,13,78,6.0
+Kuwait,Sweden,Missiles,2014,15,300,20.0
+Kuwait,Belgium,Tanks,2014,36,576,16.0
+Mexico,Poland,Aircraft,2014,20,860,43.0
+Netherlands,Iran,Missiles,2014,2,68,34.0
+Netherlands,Poland,Tanks,2014,46,1656,36.0
+Netherlands,Singapore,Missiles,2014,15,645,43.0
+Netherlands,Romania,Aircraft,2014,46,874,19.0
+Netherlands,Algeria,Missiles,2014,21,105,5.0
+Netherlands,Brazil,Missiles,2014,50,1400,28.0
+Netherlands,Colombia,Missiles,2014,12,324,27.0
+Norway,Romania,Aircraft,2014,43,1634,38.0
+Norway,Mexico,Aircraft,2014,14,196,14.0
+Norway,Philippines,Tanks,2014,21,819,39.0
+Norway,Pakistan,Missiles,2014,42,1974,47.0
+Norway,Iraq,Tanks,2014,46,966,21.0
+Norway,Iran,Missiles,2014,24,1152,48.0
+Pakistan,Netherlands,Missiles,2014,21,819,39.0
+Pakistan,Turkey,Missiles,2014,23,1035,45.0
+Philippines,Algeria,Aircraft,2014,36,540,15.0
+Philippines,Saudi Arabia,Missiles,2014,44,1716,39.0
+Philippines,Mexico,Aircraft,2014,28,1316,47.0
+Philippines,Japan,Aircraft,2014,4,36,9.0
+Philippines,Colombia,Tanks,2014,26,1300,50.0
+Philippines,Italy,Aircraft,2014,50,750,15.0
+Poland,China,Aircraft,2014,30,900,30.0
+Poland,United Kingdom,Tanks,2014,49,1519,31.0
+Poland,Kuwait,Aircraft,2014,16,208,13.0
+Poland,Denmark,Tanks,2014,32,864,27.0
+Poland,Norway,Tanks,2014,8,192,24.0
+Romania,Japan,Missiles,2014,5,150,30.0
+Romania,Sweden,Aircraft,2014,5,215,43.0
+Russia,Singapore,Tanks,2014,11,495,45.0
+Saudi Arabia,Philippines,Missiles,2014,11,88,8.0
+Saudi Arabia,Turkey,Aircraft,2014,32,1312,41.0
+South Korea,Philippines,Aircraft,2014,35,1295,37.0
+South Korea,Kuwait,Tanks,2014,43,430,10.0
+South Korea,Norway,Missiles,2014,11,319,29.0
+Spain,Switzerland,Tanks,2014,32,576,18.0
+Spain,Japan,Missiles,2014,40,600,15.0
+Sweden,Poland,Tanks,2014,14,644,46.0
+Sweden,Philippines,Missiles,2014,3,117,39.0
+Switzerland,Algeria,Missiles,2014,29,1218,42.0
+Switzerland,Sweden,Tanks,2014,39,1365,35.0
+Taiwan,Ukraine,Aircraft,2014,12,180,15.0
+Turkey,Kuwait,Missiles,2014,5,75,15.0
+Turkey,United Kingdom,Missiles,2014,44,1760,40.0
+Turkey,Italy,Tanks,2014,30,1260,42.0
+Ukraine,Singapore,Aircraft,2014,31,1457,47.0
+United Kingdom,Italy,Aircraft,2014,33,264,8.0
+United Kingdom,Taiwan,Tanks,2014,30,1080,36.0
+Algeria,Germany,Missiles,2015,31,806,26.0
+Algeria,Russia,Aircraft,2015,36,1728,48.0
+Algeria,Ukraine,Tanks,2015,30,450,15.0
+Australia,United States,Aircraft,2015,22,220,10.0
+Australia,Spain,Missiles,2015,37,1073,29.0
+Belgium,Sweden,Missiles,2015,24,408,17.0
+Belgium,Australia,Missiles,2015,9,243,27.0
+Belgium,Mexico,Missiles,2015,22,836,38.0
+Brazil,Czech Republic,Missiles,2015,44,1672,38.0
+Brazil,Spain,Tanks,2015,36,1332,37.0
+Brazil,Greece,Aircraft,2015,30,180,6.0
+Brazil,China,Missiles,2015,6,180,30.0
+Brazil,Germany,Missiles,2015,28,532,19.0
+Canada,Switzerland,Aircraft,2015,39,741,19.0
+Canada,Saudi Arabia,Aircraft,2015,20,640,32.0
+China,Singapore,Aircraft,2015,42,1680,40.0
+China,Turkey,Aircraft,2015,15,630,42.0
+Colombia,Indonesia,Tanks,2015,50,2000,40.0
+Czech Republic,Brazil,Missiles,2015,5,115,23.0
+Denmark,France,Missiles,2015,48,576,12.0
+Denmark,Saudi Arabia,Tanks,2015,11,209,19.0
+Finland,Sweden,Missiles,2015,17,340,20.0
+Finland,Romania,Missiles,2015,36,1476,41.0
+Finland,Philippines,Missiles,2015,3,129,43.0
+Finland,Norway,Missiles,2015,15,120,8.0
+France,Mexico,Missiles,2015,45,1845,41.0
+France,South Korea,Missiles,2015,46,2208,48.0
+Germany,South Korea,Missiles,2015,24,1008,42.0
+Germany,Sweden,Aircraft,2015,21,924,44.0
+Germany,Australia,Aircraft,2015,43,387,9.0
+Greece,Poland,Aircraft,2015,32,864,27.0
+Greece,Australia,Aircraft,2015,17,136,8.0
+India,Algeria,Missiles,2015,38,1216,32.0
+India,Sweden,Aircraft,2015,50,250,5.0
+India,United Kingdom,Aircraft,2015,29,696,24.0
+India,Saudi Arabia,Missiles,2015,22,1078,49.0
+Indonesia,Switzerland,Missiles,2015,14,672,48.0
+Indonesia,Iran,Tanks,2015,6,216,36.0
+Indonesia,Greece,Missiles,2015,36,1368,38.0
+Iran,Romania,Tanks,2015,45,315,7.0
+Iran,Ukraine,Missiles,2015,5,155,31.0
+Iran,Ukraine,Tanks,2015,45,1395,31.0
+Iran,Finland,Missiles,2015,21,987,47.0
+Iraq,Belgium,Tanks,2015,14,504,36.0
+Iraq,Norway,Missiles,2015,35,1295,37.0
+Israel,Italy,Tanks,2015,15,405,27.0
+Italy,United States,Aircraft,2015,47,1128,24.0
+Japan,Turkey,Missiles,2015,22,836,38.0
+Kuwait,Iraq,Tanks,2015,43,1161,27.0
+Kuwait,Switzerland,Aircraft,2015,49,1323,27.0
+Netherlands,Ukraine,Aircraft,2015,23,391,17.0
+Netherlands,Poland,Missiles,2015,44,1276,29.0
+Pakistan,Philippines,Tanks,2015,17,493,29.0
+Pakistan,Mexico,Missiles,2015,22,990,45.0
+Pakistan,Czech Republic,Tanks,2015,13,442,34.0
+Pakistan,Romania,Tanks,2015,7,70,10.0
+Pakistan,Canada,Aircraft,2015,23,1150,50.0
+Pakistan,Sweden,Missiles,2015,5,190,38.0
+Pakistan,Mexico,Tanks,2015,47,329,7.0
+Philippines,Norway,Aircraft,2015,3,15,5.0
+Philippines,Japan,Missiles,2015,33,759,23.0
+Poland,Romania,Aircraft,2015,11,484,44.0
+Poland,Brazil,Aircraft,2015,10,420,42.0
+Poland,Sweden,Aircraft,2015,1,49,49.0
+Romania,Poland,Aircraft,2015,17,272,16.0
+Romania,Spain,Tanks,2015,1,37,37.0
+Russia,Finland,Aircraft,2015,42,378,9.0
+Saudi Arabia,Canada,Aircraft,2015,4,40,10.0
+Singapore,Belgium,Missiles,2015,8,120,15.0
+Singapore,India,Missiles,2015,24,744,31.0
+Singapore,Romania,Tanks,2015,23,322,14.0
+Singapore,Finland,Aircraft,2015,32,1408,44.0
+South Korea,Russia,Tanks,2015,18,612,34.0
+South Korea,Russia,Missiles,2015,30,1500,50.0
+Spain,Turkey,Missiles,2015,16,384,24.0
+Spain,Kuwait,Tanks,2015,27,1134,42.0
+Sweden,Singapore,Tanks,2015,12,384,32.0
+Sweden,South Korea,Missiles,2015,11,231,21.0
+Switzerland,Brazil,Aircraft,2015,18,432,24.0
+Switzerland,Taiwan,Missiles,2015,43,946,22.0
+Taiwan,Kuwait,Missiles,2015,6,120,20.0
+Turkey,Germany,Aircraft,2015,21,336,16.0
+Turkey,Israel,Aircraft,2015,14,546,39.0
+Turkey,South Korea,Aircraft,2015,23,759,33.0
+Turkey,Australia,Missiles,2015,48,2208,46.0
+Turkey,Mexico,Missiles,2015,2,98,49.0
+Ukraine,Poland,Missiles,2015,35,735,21.0
+Ukraine,Iran,Tanks,2015,34,782,23.0
+Ukraine,Indonesia,Aircraft,2015,22,418,19.0
+Ukraine,Singapore,Tanks,2015,32,320,10.0
+Ukraine,France,Aircraft,2015,37,407,11.0
+United Kingdom,Greece,Tanks,2015,27,594,22.0
+United Kingdom,Romania,Missiles,2015,12,360,30.0
+United Kingdom,Saudi Arabia,Aircraft,2015,22,286,13.0
+United States,India,Tanks,2015,40,2000,50.0
+United States,Singapore,Missiles,2015,22,770,35.0
+United States,Philippines,Tanks,2015,37,703,19.0
+United States,South Korea,Aircraft,2015,17,680,40.0
+Algeria,Taiwan,Missiles,2016,45,1575,35.0
+Algeria,Finland,Tanks,2016,18,540,30.0
+Australia,Poland,Aircraft,2016,41,943,23.0
+Australia,India,Missiles,2016,30,270,9.0
+Australia,South Korea,Aircraft,2016,42,2058,49.0
+Australia,Netherlands,Missiles,2016,17,306,18.0
+Australia,Turkey,Tanks,2016,8,216,27.0
+Brazil,Mexico,Tanks,2016,46,1196,26.0
+Brazil,Israel,Aircraft,2016,3,21,7.0
+Brazil,Iran,Missiles,2016,19,323,17.0
+Brazil,Switzerland,Aircraft,2016,24,744,31.0
+Brazil,Ukraine,Tanks,2016,25,700,28.0
+Canada,United States,Aircraft,2016,15,345,23.0
+Canada,Czech Republic,Aircraft,2016,16,432,27.0
+Canada,South Korea,Tanks,2016,2,28,14.0
+China,Czech Republic,Missiles,2016,17,459,27.0
+Colombia,India,Aircraft,2016,13,312,24.0
+Czech Republic,Switzerland,Tanks,2016,20,280,14.0
+Czech Republic,Taiwan,Aircraft,2016,14,504,36.0
+Czech Republic,Turkey,Tanks,2016,4,116,29.0
+Denmark,Spain,Tanks,2016,3,30,10.0
+Germany,Turkey,Missiles,2016,40,1720,43.0
+Germany,Mexico,Tanks,2016,39,858,22.0
+Greece,Finland,Aircraft,2016,45,495,11.0
+Greece,Algeria,Tanks,2016,15,360,24.0
+Greece,Canada,Tanks,2016,27,486,18.0
+Indonesia,Poland,Aircraft,2016,2,98,49.0
+Indonesia,Mexico,Missiles,2016,14,336,24.0
+Indonesia,Norway,Missiles,2016,35,840,24.0
+Indonesia,Colombia,Aircraft,2016,16,592,37.0
+Indonesia,Sweden,Tanks,2016,50,450,9.0
+Indonesia,Germany,Aircraft,2016,18,756,42.0
+Iran,Romania,Aircraft,2016,5,140,28.0
+Iran,Singapore,Aircraft,2016,48,336,7.0
+Iraq,Spain,Missiles,2016,7,308,44.0
+Iraq,Indonesia,Tanks,2016,30,750,25.0
+Iraq,India,Aircraft,2016,13,572,44.0
+Iraq,Germany,Aircraft,2016,13,442,34.0
+Iraq,Poland,Aircraft,2016,42,1092,26.0
+Iraq,Belgium,Tanks,2016,21,504,24.0
+Israel,Colombia,Tanks,2016,46,2254,49.0
+Italy,Brazil,Aircraft,2016,6,30,5.0
+Italy,Taiwan,Tanks,2016,49,882,18.0
+Italy,Iraq,Tanks,2016,30,180,6.0
+Italy,Russia,Aircraft,2016,23,575,25.0
+Italy,Sweden,Missiles,2016,15,75,5.0
+Italy,Czech Republic,Missiles,2016,39,1833,47.0
+Italy,Norway,Tanks,2016,11,165,15.0
+Japan,India,Tanks,2016,16,352,22.0
+Japan,Italy,Aircraft,2016,26,494,19.0
+Kuwait,Spain,Missiles,2016,41,328,8.0
+Kuwait,Pakistan,Tanks,2016,46,644,14.0
+Mexico,Sweden,Tanks,2016,5,55,11.0
+Netherlands,Israel,Aircraft,2016,28,280,10.0
+Netherlands,Indonesia,Tanks,2016,9,360,40.0
+Norway,Taiwan,Aircraft,2016,24,912,38.0
+Norway,Kuwait,Missiles,2016,49,2205,45.0
+Norway,Spain,Missiles,2016,3,36,12.0
+Norway,Pakistan,Tanks,2016,7,91,13.0
+Norway,Brazil,Aircraft,2016,6,246,41.0
+Norway,Finland,Aircraft,2016,3,135,45.0
+Pakistan,Saudi Arabia,Aircraft,2016,40,1320,33.0
+Pakistan,Indonesia,Aircraft,2016,15,135,9.0
+Pakistan,Ukraine,Tanks,2016,38,1862,49.0
+Philippines,Russia,Aircraft,2016,25,325,13.0
+Philippines,France,Tanks,2016,11,407,37.0
+Philippines,Greece,Missiles,2016,42,210,5.0
+Philippines,United Kingdom,Missiles,2016,18,486,27.0
+Poland,Singapore,Aircraft,2016,4,184,46.0
+Poland,Pakistan,Tanks,2016,19,152,8.0
+Poland,Indonesia,Aircraft,2016,43,1892,44.0
+Poland,Turkey,Aircraft,2016,12,456,38.0
+Poland,Germany,Missiles,2016,9,450,50.0
+Poland,Mexico,Tanks,2016,9,270,30.0
+Romania,Norway,Missiles,2016,18,810,45.0
+Romania,India,Aircraft,2016,20,400,20.0
+Saudi Arabia,Spain,Aircraft,2016,18,306,17.0
+Singapore,Kuwait,Missiles,2016,3,141,47.0
+South Korea,Turkey,Tanks,2016,3,72,24.0
+Spain,Mexico,Tanks,2016,1,31,31.0
+Spain,Czech Republic,Tanks,2016,21,546,26.0
+Spain,China,Tanks,2016,36,432,12.0
+Sweden,Australia,Aircraft,2016,14,588,42.0
+Switzerland,Japan,Tanks,2016,20,500,25.0
+Switzerland,Ukraine,Tanks,2016,30,900,30.0
+Taiwan,France,Tanks,2016,6,138,23.0
+Taiwan,China,Tanks,2016,38,1216,32.0
+Turkey,Romania,Aircraft,2016,33,1254,38.0
+Turkey,Ukraine,Tanks,2016,23,897,39.0
+Turkey,Iran,Tanks,2016,44,1760,40.0
+Turkey,Pakistan,Tanks,2016,18,792,44.0
+Ukraine,Italy,Tanks,2016,41,574,14.0
+Ukraine,Poland,Missiles,2016,14,630,45.0
+United Kingdom,United States,Tanks,2016,41,779,19.0
+United Kingdom,Taiwan,Missiles,2016,12,132,11.0
+United States,Czech Republic,Missiles,2016,38,1596,42.0
+United States,Poland,Missiles,2016,42,462,11.0
+Australia,Colombia,Aircraft,2017,33,297,9.0
+Belgium,Pakistan,Missiles,2017,48,2016,42.0
+Belgium,Norway,Missiles,2017,41,492,12.0
+Belgium,Singapore,Aircraft,2017,9,180,20.0
+Belgium,Finland,Tanks,2017,29,435,15.0
+Brazil,Italy,Missiles,2017,34,1360,40.0
+Brazil,United Kingdom,Aircraft,2017,27,1242,46.0
+Canada,Indonesia,Aircraft,2017,19,513,27.0
+Canada,Czech Republic,Tanks,2017,7,196,28.0
+China,Spain,Missiles,2017,40,1480,37.0
+China,Switzerland,Tanks,2017,34,1394,41.0
+China,Kuwait,Aircraft,2017,19,361,19.0
+Colombia,Pakistan,Tanks,2017,48,2112,44.0
+Czech Republic,Norway,Aircraft,2017,21,777,37.0
+Czech Republic,Taiwan,Aircraft,2017,50,800,16.0
+Denmark,Indonesia,Missiles,2017,8,312,39.0
+Denmark,United Kingdom,Missiles,2017,34,1428,42.0
+Finland,Czech Republic,Aircraft,2017,6,258,43.0
+Finland,Pakistan,Missiles,2017,28,868,31.0
+Finland,Algeria,Tanks,2017,37,1221,33.0
+Finland,Germany,Aircraft,2017,27,756,28.0
+France,Italy,Aircraft,2017,6,42,7.0
+France,Turkey,Missiles,2017,42,966,23.0
+France,Russia,Aircraft,2017,35,1155,33.0
+France,Brazil,Tanks,2017,35,1190,34.0
+France,Philippines,Missiles,2017,12,144,12.0
+France,Norway,Aircraft,2017,1,19,19.0
+France,Germany,Aircraft,2017,22,176,8.0
+Germany,Iran,Tanks,2017,36,1548,43.0
+Germany,Norway,Missiles,2017,4,104,26.0
+Germany,Mexico,Tanks,2017,13,143,11.0
+Greece,Japan,Tanks,2017,15,660,44.0
+Greece,Turkey,Tanks,2017,5,235,47.0
+Greece,South Korea,Aircraft,2017,1,27,27.0
+India,United States,Missiles,2017,2,68,34.0
+India,Philippines,Aircraft,2017,38,304,8.0
+India,Ukraine,Aircraft,2017,11,308,28.0
+India,Indonesia,Missiles,2017,30,150,5.0
+Iraq,Japan,Missiles,2017,41,369,9.0
+Iraq,Brazil,Aircraft,2017,28,140,5.0
+Iraq,Norway,Missiles,2017,4,68,17.0
+Iraq,Czech Republic,Aircraft,2017,25,400,16.0
+Israel,Indonesia,Missiles,2017,49,1911,39.0
+Israel,Taiwan,Tanks,2017,2,24,12.0
+Italy,Saudi Arabia,Aircraft,2017,43,1720,40.0
+Kuwait,India,Aircraft,2017,28,1204,43.0
+Kuwait,India,Missiles,2017,35,1715,49.0
+Kuwait,Brazil,Missiles,2017,2,28,14.0
+Kuwait,Pakistan,Missiles,2017,41,1312,32.0
+Mexico,Colombia,Tanks,2017,16,800,50.0
+Mexico,India,Missiles,2017,1,13,13.0
+Netherlands,Iraq,Tanks,2017,22,792,36.0
+Netherlands,Germany,Missiles,2017,32,608,19.0
+Norway,Philippines,Missiles,2017,22,242,11.0
+Norway,Italy,Aircraft,2017,39,429,11.0
+Norway,Pakistan,Aircraft,2017,22,330,15.0
+Norway,Sweden,Missiles,2017,33,1419,43.0
+Norway,Taiwan,Aircraft,2017,10,270,27.0
+Pakistan,Norway,Missiles,2017,18,684,38.0
+Pakistan,France,Missiles,2017,21,882,42.0
+Philippines,Belgium,Aircraft,2017,17,136,8.0
+Philippines,Romania,Tanks,2017,44,748,17.0
+Philippines,Poland,Missiles,2017,14,350,25.0
+Philippines,Pakistan,Tanks,2017,25,875,35.0
+Philippines,Canada,Tanks,2017,12,264,22.0
+Poland,United States,Missiles,2017,28,1232,44.0
+Romania,Turkey,Tanks,2017,42,1512,36.0
+Romania,Norway,Missiles,2017,18,522,29.0
+Russia,Algeria,Missiles,2017,4,172,43.0
+Russia,France,Tanks,2017,46,2116,46.0
+Russia,Mexico,Aircraft,2017,15,360,24.0
+Russia,Singapore,Missiles,2017,50,2050,41.0
+Saudi Arabia,Algeria,Aircraft,2017,50,1450,29.0
+Saudi Arabia,Taiwan,Aircraft,2017,4,76,19.0
+Saudi Arabia,India,Aircraft,2017,50,2400,48.0
+Saudi Arabia,France,Aircraft,2017,22,682,31.0
+Singapore,China,Aircraft,2017,42,294,7.0
+South Korea,Algeria,Missiles,2017,28,840,30.0
+South Korea,Brazil,Tanks,2017,42,1680,40.0
+Spain,Finland,Tanks,2017,39,975,25.0
+Spain,China,Aircraft,2017,4,60,15.0
+Spain,Pakistan,Aircraft,2017,21,273,13.0
+Sweden,Saudi Arabia,Aircraft,2017,41,205,5.0
+Switzerland,Mexico,Missiles,2017,1,10,10.0
+Switzerland,Pakistan,Aircraft,2017,41,1517,37.0
+Switzerland,Colombia,Tanks,2017,10,260,26.0
+Taiwan,Ukraine,Tanks,2017,50,1350,27.0
+Taiwan,Saudi Arabia,Aircraft,2017,1,30,30.0
+Taiwan,Kuwait,Missiles,2017,31,465,15.0
+Taiwan,Saudi Arabia,Aircraft,2017,7,322,46.0
+Turkey,South Korea,Aircraft,2017,29,725,25.0
+Ukraine,Switzerland,Tanks,2017,37,592,16.0
+United Kingdom,Iraq,Missiles,2017,33,1386,42.0
+United Kingdom,Philippines,Tanks,2017,6,216,36.0
+United Kingdom,Saudi Arabia,Aircraft,2017,19,836,44.0
+United Kingdom,Colombia,Missiles,2017,14,700,50.0
+United States,Indonesia,Tanks,2017,34,1122,33.0
+United States,Brazil,Aircraft,2017,35,770,22.0
+Australia,Singapore,Missiles,2018,5,210,42.0
+Belgium,India,Aircraft,2018,6,300,50.0
+Belgium,India,Tanks,2018,19,722,38.0
+Belgium,China,Aircraft,2018,50,1050,21.0
+Belgium,United States,Aircraft,2018,34,1632,48.0
+Belgium,Turkey,Aircraft,2018,40,240,6.0
+Belgium,Singapore,Aircraft,2018,43,1892,44.0
+Belgium,Iran,Tanks,2018,39,624,16.0
+Brazil,Germany,Aircraft,2018,9,414,46.0
+Brazil,France,Tanks,2018,42,2058,49.0
+Brazil,Australia,Aircraft,2018,31,496,16.0
+Canada,Netherlands,Aircraft,2018,21,630,30.0
+Canada,Algeria,Aircraft,2018,26,260,10.0
+Canada,Switzerland,Missiles,2018,49,2058,42.0
+China,Poland,Tanks,2018,22,726,33.0
+Colombia,Saudi Arabia,Missiles,2018,14,266,19.0
+Czech Republic,United Kingdom,Tanks,2018,14,602,43.0
+Czech Republic,Iraq,Aircraft,2018,13,429,33.0
+Czech Republic,France,Aircraft,2018,42,2100,50.0
+Czech Republic,Poland,Tanks,2018,44,1628,37.0
+Denmark,Poland,Tanks,2018,46,506,11.0
+Denmark,Algeria,Aircraft,2018,10,450,45.0
+Denmark,Germany,Aircraft,2018,38,418,11.0
+Denmark,Italy,Tanks,2018,10,120,12.0
+Denmark,Kuwait,Tanks,2018,32,512,16.0
+Denmark,Iraq,Tanks,2018,37,1443,39.0
+France,Russia,Tanks,2018,31,155,5.0
+France,Ukraine,Tanks,2018,46,644,14.0
+Germany,Kuwait,Missiles,2018,23,138,6.0
+Germany,Australia,Aircraft,2018,9,180,20.0
+Germany,Japan,Tanks,2018,23,552,24.0
+Germany,Brazil,Aircraft,2018,20,820,41.0
+Greece,Russia,Aircraft,2018,6,300,50.0
+Greece,Canada,Aircraft,2018,1,24,24.0
+India,Switzerland,Missiles,2018,26,182,7.0
+India,Saudi Arabia,Aircraft,2018,24,216,9.0
+India,Sweden,Tanks,2018,3,102,34.0
+Indonesia,China,Missiles,2018,12,204,17.0
+Iran,Taiwan,Missiles,2018,22,990,45.0
+Iraq,Finland,Tanks,2018,8,216,27.0
+Iraq,Switzerland,Aircraft,2018,22,924,42.0
+Israel,China,Aircraft,2018,11,341,31.0
+Israel,Spain,Tanks,2018,33,363,11.0
+Israel,Turkey,Tanks,2018,6,222,37.0
+Italy,Australia,Missiles,2018,9,387,43.0
+Italy,Iran,Tanks,2018,12,96,8.0
+Japan,Belgium,Aircraft,2018,26,624,24.0
+Japan,France,Aircraft,2018,29,406,14.0
+Japan,Mexico,Aircraft,2018,50,1650,33.0
+Japan,Russia,Aircraft,2018,50,2350,47.0
+Kuwait,Belgium,Aircraft,2018,38,190,5.0
+Kuwait,Ukraine,Tanks,2018,36,1368,38.0
+Kuwait,Belgium,Tanks,2018,31,899,29.0
+Kuwait,Algeria,Tanks,2018,12,300,25.0
+Kuwait,South Korea,Tanks,2018,38,532,14.0
+Kuwait,Romania,Missiles,2018,46,1840,40.0
+Mexico,Switzerland,Missiles,2018,45,450,10.0
+Netherlands,Israel,Missiles,2018,38,874,23.0
+Norway,Poland,Tanks,2018,8,328,41.0
+Norway,Pakistan,Aircraft,2018,17,612,36.0
+Norway,Iran,Tanks,2018,44,1540,35.0
+Pakistan,Iraq,Missiles,2018,7,224,32.0
+Pakistan,Australia,Missiles,2018,20,840,42.0
+Pakistan,Australia,Tanks,2018,17,714,42.0
+Philippines,Romania,Missiles,2018,19,190,10.0
+Philippines,Netherlands,Tanks,2018,35,1435,41.0
+Philippines,India,Aircraft,2018,30,630,21.0
+Poland,Algeria,Tanks,2018,14,574,41.0
+Poland,Iran,Tanks,2018,27,1080,40.0
+Romania,Kuwait,Missiles,2018,31,248,8.0
+Romania,France,Missiles,2018,6,210,35.0
+Russia,Iran,Tanks,2018,34,1020,30.0
+Saudi Arabia,Spain,Aircraft,2018,14,182,13.0
+Saudi Arabia,Kuwait,Tanks,2018,21,609,29.0
+Singapore,Colombia,Missiles,2018,10,100,10.0
+Singapore,India,Missiles,2018,27,702,26.0
+Singapore,China,Aircraft,2018,47,1034,22.0
+Singapore,Ukraine,Tanks,2018,25,450,18.0
+South Korea,Turkey,Tanks,2018,44,1232,28.0
+South Korea,Denmark,Aircraft,2018,45,1890,42.0
+Spain,Sweden,Aircraft,2018,45,1980,44.0
+Spain,Algeria,Missiles,2018,23,207,9.0
+Spain,Taiwan,Aircraft,2018,22,572,26.0
+Sweden,Canada,Aircraft,2018,15,495,33.0
+Sweden,Netherlands,Aircraft,2018,46,1886,41.0
+Sweden,South Korea,Tanks,2018,31,465,15.0
+Sweden,Canada,Tanks,2018,7,210,30.0
+Switzerland,Mexico,Missiles,2018,41,2009,49.0
+Switzerland,Iran,Tanks,2018,31,1550,50.0
+Switzerland,Iran,Aircraft,2018,44,2024,46.0
+Switzerland,China,Tanks,2018,13,429,33.0
+Switzerland,Indonesia,Missiles,2018,48,1872,39.0
+Taiwan,Greece,Aircraft,2018,35,910,26.0
+Turkey,United States,Missiles,2018,29,1450,50.0
+United Kingdom,Canada,Tanks,2018,40,1280,32.0
+United States,Iraq,Missiles,2018,38,570,15.0
+United States,Finland,Tanks,2018,48,1488,31.0
+Algeria,Germany,Aircraft,2019,17,85,5.0
+Algeria,Romania,Tanks,2019,20,260,13.0
+Australia,Poland,Missiles,2019,36,288,8.0
+Australia,France,Missiles,2019,46,1104,24.0
+Australia,Singapore,Missiles,2019,16,96,6.0
+Belgium,Australia,Missiles,2019,44,704,16.0
+Belgium,Algeria,Aircraft,2019,3,129,43.0
+Belgium,Finland,Aircraft,2019,24,1056,44.0
+Belgium,Iran,Tanks,2019,21,735,35.0
+Belgium,Kuwait,Missiles,2019,5,145,29.0
+Brazil,Colombia,Missiles,2019,34,850,25.0
+Brazil,Spain,Tanks,2019,10,130,13.0
+Brazil,Saudi Arabia,Missiles,2019,12,396,33.0
+Brazil,Denmark,Aircraft,2019,39,429,11.0
+Brazil,China,Missiles,2019,26,1170,45.0
+Brazil,Kuwait,Aircraft,2019,48,1296,27.0
+Canada,Netherlands,Aircraft,2019,17,306,18.0
+China,France,Tanks,2019,31,1550,50.0
+China,India,Aircraft,2019,9,369,41.0
+China,Colombia,Aircraft,2019,41,1230,30.0
+China,Turkey,Missiles,2019,46,690,15.0
+Colombia,Japan,Aircraft,2019,24,744,31.0
+Czech Republic,Brazil,Tanks,2019,4,144,36.0
+Denmark,Switzerland,Missiles,2019,6,294,49.0
+Denmark,Sweden,Aircraft,2019,2,26,13.0
+Denmark,Turkey,Tanks,2019,23,299,13.0
+Denmark,Sweden,Aircraft,2019,13,286,22.0
+Finland,Sweden,Tanks,2019,15,75,5.0
+Finland,Saudi Arabia,Missiles,2019,10,140,14.0
+France,Germany,Missiles,2019,17,459,27.0
+France,Taiwan,Tanks,2019,29,783,27.0
+France,Israel,Tanks,2019,49,2205,45.0
+France,Japan,Missiles,2019,36,1152,32.0
+Germany,China,Aircraft,2019,37,740,20.0
+Greece,United States,Tanks,2019,39,741,19.0
+Greece,United Kingdom,Aircraft,2019,19,190,10.0
+India,Algeria,Aircraft,2019,39,1092,28.0
+India,Ukraine,Missiles,2019,34,1360,40.0
+Indonesia,Turkey,Aircraft,2019,6,204,34.0
+Indonesia,Algeria,Missiles,2019,3,144,48.0
+Iran,Israel,Missiles,2019,14,630,45.0
+Iran,Poland,Missiles,2019,8,304,38.0
+Iran,United States,Aircraft,2019,14,224,16.0
+Iran,Mexico,Missiles,2019,37,777,21.0
+Iran,Israel,Aircraft,2019,29,1276,44.0
+Iran,Japan,Aircraft,2019,45,1755,39.0
+Iran,Algeria,Missiles,2019,9,369,41.0
+Iraq,Czech Republic,Aircraft,2019,30,1140,38.0
+Iraq,United States,Missiles,2019,34,1666,49.0
+Israel,Denmark,Missiles,2019,31,1271,41.0
+Israel,Turkey,Aircraft,2019,37,222,6.0
+Italy,Iran,Missiles,2019,18,630,35.0
+Italy,Saudi Arabia,Tanks,2019,26,260,10.0
+Italy,Sweden,Aircraft,2019,34,510,15.0
+Italy,Sweden,Missiles,2019,5,240,48.0
+Japan,Romania,Missiles,2019,33,924,28.0
+Japan,Denmark,Tanks,2019,1,13,13.0
+Japan,Greece,Missiles,2019,22,638,29.0
+Kuwait,Germany,Tanks,2019,14,686,49.0
+Kuwait,Pakistan,Aircraft,2019,15,465,31.0
+Kuwait,Italy,Missiles,2019,17,663,39.0
+Kuwait,United States,Missiles,2019,29,841,29.0
+Kuwait,Ukraine,Aircraft,2019,27,162,6.0
+Kuwait,Saudi Arabia,Aircraft,2019,36,720,20.0
+Mexico,Netherlands,Missiles,2019,5,75,15.0
+Mexico,Israel,Tanks,2019,33,1353,41.0
+Mexico,Spain,Aircraft,2019,28,868,31.0
+Mexico,Turkey,Tanks,2019,30,450,15.0
+Netherlands,Finland,Aircraft,2019,29,290,10.0
+Netherlands,Switzerland,Tanks,2019,4,164,41.0
+Netherlands,Australia,Tanks,2019,36,288,8.0
+Netherlands,Czech Republic,Missiles,2019,16,400,25.0
+Netherlands,Indonesia,Aircraft,2019,44,1540,35.0
+Norway,Czech Republic,Aircraft,2019,7,210,30.0
+Norway,China,Missiles,2019,45,1935,43.0
+Norway,Pakistan,Aircraft,2019,48,2016,42.0
+Norway,Romania,Missiles,2019,11,341,31.0
+Pakistan,Russia,Tanks,2019,50,2100,42.0
+Philippines,Israel,Aircraft,2019,12,576,48.0
+Philippines,Ukraine,Missiles,2019,25,825,33.0
+Poland,Pakistan,Aircraft,2019,10,460,46.0
+Poland,Italy,Tanks,2019,22,924,42.0
+Poland,Romania,Tanks,2019,13,585,45.0
+Romania,Taiwan,Tanks,2019,17,119,7.0
+Romania,Iran,Aircraft,2019,39,1560,40.0
+Russia,Czech Republic,Tanks,2019,46,414,9.0
+Saudi Arabia,Sweden,Tanks,2019,20,960,48.0
+South Korea,United States,Missiles,2019,19,266,14.0
+South Korea,Taiwan,Missiles,2019,6,96,16.0
+South Korea,Canada,Aircraft,2019,46,828,18.0
+Sweden,Denmark,Aircraft,2019,23,667,29.0
+Taiwan,Singapore,Tanks,2019,7,133,19.0
+Taiwan,Switzerland,Aircraft,2019,7,168,24.0
+Taiwan,Czech Republic,Aircraft,2019,9,117,13.0
+Turkey,Spain,Missiles,2019,22,462,21.0
+Turkey,France,Tanks,2019,33,627,19.0
+United States,Algeria,Missiles,2019,22,308,14.0
+United States,Saudi Arabia,Aircraft,2019,46,460,10.0
+Algeria,Canada,Aircraft,2020,19,266,14.0
+Algeria,Poland,Aircraft,2020,34,884,26.0
+Algeria,Singapore,Missiles,2020,37,296,8.0
+Australia,Saudi Arabia,Missiles,2020,33,726,22.0
+Australia,Kuwait,Missiles,2020,8,192,24.0
+Belgium,Colombia,Aircraft,2020,28,392,14.0
+Belgium,Sweden,Aircraft,2020,5,35,7.0
+Belgium,Romania,Tanks,2020,5,85,17.0
+Brazil,Indonesia,Tanks,2020,37,1221,33.0
+Brazil,China,Aircraft,2020,24,768,32.0
+Canada,Turkey,Aircraft,2020,32,1248,39.0
+China,Philippines,Missiles,2020,44,1628,37.0
+China,Indonesia,Aircraft,2020,17,425,25.0
+China,Iraq,Missiles,2020,26,234,9.0
+Colombia,Mexico,Tanks,2020,23,966,42.0
+Colombia,Saudi Arabia,Missiles,2020,33,957,29.0
+Colombia,Iran,Missiles,2020,3,87,29.0
+Colombia,Brazil,Aircraft,2020,20,880,44.0
+Czech Republic,Belgium,Tanks,2020,1,33,33.0
+Czech Republic,Belgium,Tanks,2020,27,1350,50.0
+Czech Republic,Israel,Missiles,2020,31,651,21.0
+France,Kuwait,Missiles,2020,29,986,34.0
+France,Czech Republic,Tanks,2020,43,1634,38.0
+France,Singapore,Tanks,2020,46,1794,39.0
+France,Singapore,Missiles,2020,47,1692,36.0
+France,Sweden,Aircraft,2020,36,432,12.0
+Germany,France,Aircraft,2020,28,1372,49.0
+Germany,Turkey,Aircraft,2020,8,120,15.0
+Greece,Pakistan,Aircraft,2020,37,1073,29.0
+India,Finland,Missiles,2020,31,992,32.0
+India,Canada,Missiles,2020,41,1968,48.0
+India,Turkey,Missiles,2020,37,1073,29.0
+Indonesia,Japan,Aircraft,2020,7,105,15.0
+Indonesia,Switzerland,Tanks,2020,48,768,16.0
+Indonesia,Norway,Aircraft,2020,2,22,11.0
+Indonesia,Ukraine,Aircraft,2020,36,864,24.0
+Indonesia,France,Aircraft,2020,11,517,47.0
+Iran,Netherlands,Aircraft,2020,31,496,16.0
+Iran,Kuwait,Aircraft,2020,42,1554,37.0
+Iran,Iraq,Aircraft,2020,24,864,36.0
+Iran,Pakistan,Aircraft,2020,6,120,20.0
+Iraq,Israel,Tanks,2020,17,289,17.0
+Iraq,Belgium,Missiles,2020,28,1260,45.0
+Israel,Denmark,Tanks,2020,29,609,21.0
+Italy,Greece,Tanks,2020,47,2303,49.0
+Japan,Italy,Missiles,2020,11,88,8.0
+Japan,Belgium,Tanks,2020,29,203,7.0
+Japan,Indonesia,Aircraft,2020,24,792,33.0
+Mexico,Ukraine,Missiles,2020,13,481,37.0
+Mexico,Philippines,Aircraft,2020,4,36,9.0
+Netherlands,United Kingdom,Missiles,2020,44,1320,30.0
+Netherlands,Philippines,Tanks,2020,20,260,13.0
+Norway,Colombia,Missiles,2020,1,21,21.0
+Norway,Singapore,Missiles,2020,3,114,38.0
+Norway,United Kingdom,Missiles,2020,5,70,14.0
+Norway,Brazil,Aircraft,2020,19,209,11.0
+Pakistan,Iran,Missiles,2020,24,936,39.0
+Pakistan,Finland,Aircraft,2020,38,1406,37.0
+Poland,Netherlands,Aircraft,2020,3,45,15.0
+Poland,Denmark,Tanks,2020,41,779,19.0
+Poland,China,Aircraft,2020,25,125,5.0
+Romania,Mexico,Missiles,2020,35,1680,48.0
+Romania,Spain,Aircraft,2020,6,186,31.0
+Romania,Singapore,Tanks,2020,35,1400,40.0
+Russia,Mexico,Missiles,2020,41,246,6.0
+Russia,Switzerland,Missiles,2020,17,646,38.0
+Russia,Colombia,Missiles,2020,34,1156,34.0
+Saudi Arabia,Greece,Tanks,2020,4,172,43.0
+Saudi Arabia,France,Missiles,2020,17,527,31.0
+Saudi Arabia,Canada,Tanks,2020,19,380,20.0
+Saudi Arabia,Pakistan,Aircraft,2020,14,406,29.0
+Singapore,Turkey,Tanks,2020,15,210,14.0
+Singapore,United Kingdom,Aircraft,2020,2,76,38.0
+Singapore,Pakistan,Missiles,2020,12,444,37.0
+Singapore,Norway,Tanks,2020,44,1144,26.0
+South Korea,Turkey,Missiles,2020,7,168,24.0
+South Korea,Italy,Missiles,2020,13,130,10.0
+South Korea,United States,Aircraft,2020,26,598,23.0
+Spain,Denmark,Missiles,2020,21,546,26.0
+Spain,Iran,Aircraft,2020,15,555,37.0
+Sweden,Israel,Aircraft,2020,26,416,16.0
+Sweden,India,Tanks,2020,18,180,10.0
+Sweden,Greece,Missiles,2020,43,1591,37.0
+Sweden,United States,Missiles,2020,36,540,15.0
+Switzerland,Denmark,Aircraft,2020,8,384,48.0
+Switzerland,Italy,Tanks,2020,36,504,14.0
+Taiwan,Germany,Tanks,2020,50,2000,40.0
+Taiwan,Kuwait,Missiles,2020,42,1134,27.0
+Turkey,Kuwait,Tanks,2020,15,285,19.0
+Turkey,Poland,Aircraft,2020,2,98,49.0
+United Kingdom,Taiwan,Missiles,2020,30,1200,40.0
+United Kingdom,Japan,Tanks,2020,32,352,11.0
+United Kingdom,Kuwait,Tanks,2020,26,546,21.0
+United Kingdom,Mexico,Tanks,2020,48,528,11.0
+United Kingdom,Japan,Missiles,2020,33,198,6.0
+United States,Switzerland,Aircraft,2020,36,324,9.0
+United States,Ukraine,Missiles,2020,25,125,5.0
+United States,Russia,Aircraft,2020,5,110,22.0
+United States,India,Tanks,2020,24,984,41.0
+Algeria,Mexico,Missiles,2021,26,936,36.0
+Algeria,Russia,Aircraft,2021,6,210,35.0
+Australia,Pakistan,Tanks,2021,22,660,30.0
+Belgium,Norway,Missiles,2021,45,1080,24.0
+Belgium,China,Tanks,2021,4,88,22.0
+Belgium,Germany,Aircraft,2021,20,220,11.0
+Belgium,Israel,Tanks,2021,28,644,23.0
+Belgium,Taiwan,Aircraft,2021,6,132,22.0
+Belgium,Sweden,Aircraft,2021,12,132,11.0
+Belgium,Mexico,Tanks,2021,48,1488,31.0
+Brazil,Israel,Missiles,2021,13,234,18.0
+Canada,Saudi Arabia,Aircraft,2021,6,36,6.0
+Colombia,Algeria,Tanks,2021,22,880,40.0
+Colombia,Algeria,Tanks,2021,32,416,13.0
+Colombia,Iran,Tanks,2021,26,260,10.0
+Colombia,Poland,Tanks,2021,42,210,5.0
+Colombia,Netherlands,Aircraft,2021,29,464,16.0
+Czech Republic,Australia,Aircraft,2021,30,1140,38.0
+Czech Republic,Norway,Aircraft,2021,13,507,39.0
+Czech Republic,Belgium,Tanks,2021,13,520,40.0
+Czech Republic,Poland,Missiles,2021,35,805,23.0
+Denmark,India,Aircraft,2021,49,2352,48.0
+Denmark,Kuwait,Missiles,2021,19,494,26.0
+Finland,Canada,Aircraft,2021,30,570,19.0
+Finland,Poland,Aircraft,2021,14,518,37.0
+Finland,Denmark,Missiles,2021,39,1092,28.0
+France,Iraq,Missiles,2021,33,924,28.0
+France,Poland,Missiles,2021,28,308,11.0
+France,Norway,Missiles,2021,1,44,44.0
+Germany,Brazil,Tanks,2021,40,1080,27.0
+Germany,India,Tanks,2021,9,99,11.0
+Germany,Saudi Arabia,Aircraft,2021,27,945,35.0
+India,Denmark,Missiles,2021,18,864,48.0
+India,Australia,Missiles,2021,40,480,12.0
+Indonesia,South Korea,Missiles,2021,18,198,11.0
+Iran,Japan,Missiles,2021,31,248,8.0
+Iraq,Taiwan,Missiles,2021,12,408,34.0
+Iraq,Norway,Aircraft,2021,5,160,32.0
+Iraq,Turkey,Missiles,2021,35,595,17.0
+Israel,Belgium,Tanks,2021,48,1776,37.0
+Israel,Belgium,Tanks,2021,22,946,43.0
+Israel,Greece,Tanks,2021,11,165,15.0
+Italy,Iraq,Tanks,2021,2,94,47.0
+Italy,Pakistan,Tanks,2021,6,180,30.0
+Italy,Turkey,Aircraft,2021,27,513,19.0
+Italy,Romania,Missiles,2021,46,2208,48.0
+Japan,Belgium,Aircraft,2021,1,19,19.0
+Kuwait,Denmark,Missiles,2021,24,432,18.0
+Kuwait,Canada,Tanks,2021,44,1496,34.0
+Kuwait,Canada,Missiles,2021,38,950,25.0
+Mexico,United States,Tanks,2021,33,1155,35.0
+Mexico,Saudi Arabia,Missiles,2021,21,651,31.0
+Netherlands,Japan,Aircraft,2021,35,735,21.0
+Netherlands,United Kingdom,Aircraft,2021,50,1050,21.0
+Norway,Indonesia,Missiles,2021,17,748,44.0
+Norway,United Kingdom,Aircraft,2021,7,315,45.0
+Pakistan,Iraq,Tanks,2021,13,546,42.0
+Philippines,Turkey,Tanks,2021,24,864,36.0
+Philippines,Algeria,Tanks,2021,8,96,12.0
+Philippines,United Kingdom,Tanks,2021,23,414,18.0
+Philippines,Greece,Missiles,2021,19,912,48.0
+Philippines,Colombia,Tanks,2021,39,195,5.0
+Philippines,Brazil,Aircraft,2021,12,444,37.0
+Poland,Switzerland,Missiles,2021,24,864,36.0
+Poland,Philippines,Aircraft,2021,28,504,18.0
+Romania,Czech Republic,Aircraft,2021,18,648,36.0
+Romania,Kuwait,Missiles,2021,32,1600,50.0
+Romania,France,Aircraft,2021,12,180,15.0
+Russia,Finland,Missiles,2021,7,35,5.0
+Saudi Arabia,Israel,Missiles,2021,42,1512,36.0
+Saudi Arabia,Italy,Aircraft,2021,30,1170,39.0
+Singapore,Australia,Aircraft,2021,15,210,14.0
+Singapore,Mexico,Missiles,2021,3,78,26.0
+Singapore,India,Aircraft,2021,33,1650,50.0
+South Korea,Finland,Aircraft,2021,8,128,16.0
+South Korea,Algeria,Aircraft,2021,27,756,28.0
+South Korea,Norway,Missiles,2021,49,490,10.0
+Spain,Kuwait,Aircraft,2021,2,96,48.0
+Sweden,Singapore,Aircraft,2021,25,1075,43.0
+Sweden,Spain,Aircraft,2021,37,888,24.0
+Sweden,China,Missiles,2021,2,40,20.0
+Switzerland,Denmark,Aircraft,2021,39,1287,33.0
+Switzerland,Pakistan,Aircraft,2021,25,450,18.0
+Switzerland,Czech Republic,Missiles,2021,48,2352,49.0
+Taiwan,Norway,Aircraft,2021,5,160,32.0
+Taiwan,United States,Aircraft,2021,13,598,46.0
+Taiwan,Colombia,Tanks,2021,22,198,9.0
+Turkey,Colombia,Missiles,2021,26,520,20.0
+Turkey,Taiwan,Tanks,2021,2,56,28.0
+Turkey,Mexico,Missiles,2021,47,282,6.0
+Ukraine,Singapore,Aircraft,2021,5,145,29.0
+Ukraine,Netherlands,Tanks,2021,38,646,17.0
+Ukraine,Switzerland,Tanks,2021,4,156,39.0
+Ukraine,Norway,Missiles,2021,33,462,14.0
+Ukraine,Kuwait,Tanks,2021,29,812,28.0
+United Kingdom,Singapore,Aircraft,2021,26,442,17.0
+United Kingdom,China,Aircraft,2021,33,297,9.0
+Algeria,Italy,Tanks,2022,3,42,14.0
+Algeria,Taiwan,Tanks,2022,23,1058,46.0
+Algeria,Indonesia,Tanks,2022,46,1426,31.0
+Australia,Iran,Tanks,2022,8,112,14.0
+Australia,Indonesia,Aircraft,2022,18,684,38.0
+Australia,United States,Missiles,2022,18,612,34.0
+Belgium,Brazil,Tanks,2022,40,1960,49.0
+Belgium,Netherlands,Tanks,2022,48,2400,50.0
+Belgium,France,Aircraft,2022,10,120,12.0
+Brazil,Norway,Aircraft,2022,38,646,17.0
+Canada,Russia,Tanks,2022,45,990,22.0
+China,Russia,Missiles,2022,49,1372,28.0
+Colombia,Iran,Aircraft,2022,33,1320,40.0
+Colombia,Algeria,Aircraft,2022,34,646,19.0
+Colombia,Algeria,Missiles,2022,7,63,9.0
+Czech Republic,Japan,Aircraft,2022,1,41,41.0
+Czech Republic,France,Aircraft,2022,29,551,19.0
+Denmark,China,Aircraft,2022,43,2021,47.0
+Denmark,Belgium,Tanks,2022,30,660,22.0
+Denmark,Italy,Tanks,2022,32,608,19.0
+Denmark,Turkey,Aircraft,2022,49,245,5.0
+Denmark,Iran,Tanks,2022,50,2200,44.0
+Finland,Poland,Tanks,2022,1,50,50.0
+France,Spain,Missiles,2022,47,2021,43.0
+France,Russia,Missiles,2022,5,175,35.0
+France,Kuwait,Missiles,2022,39,1482,38.0
+France,Indonesia,Tanks,2022,48,1248,26.0
+Germany,Canada,Missiles,2022,28,728,26.0
+Germany,Brazil,Aircraft,2022,4,136,34.0
+Greece,Italy,Tanks,2022,29,928,32.0
+Greece,Finland,Tanks,2022,45,1620,36.0
+Greece,Sweden,Missiles,2022,7,336,48.0
+Greece,France,Aircraft,2022,4,96,24.0
+Greece,Finland,Tanks,2022,26,338,13.0
+Greece,Norway,Aircraft,2022,50,1950,39.0
+Greece,Kuwait,Missiles,2022,13,273,21.0
+India,Switzerland,Tanks,2022,50,300,6.0
+India,Philippines,Aircraft,2022,11,143,13.0
+Indonesia,Italy,Missiles,2022,5,130,26.0
+Indonesia,Mexico,Aircraft,2022,41,1640,40.0
+Indonesia,Philippines,Missiles,2022,11,220,20.0
+Indonesia,Italy,Missiles,2022,32,576,18.0
+Indonesia,Kuwait,Aircraft,2022,4,140,35.0
+Iran,Russia,Tanks,2022,9,63,7.0
+Iran,Spain,Tanks,2022,12,540,45.0
+Iraq,Singapore,Tanks,2022,49,1127,23.0
+Italy,Poland,Tanks,2022,38,1178,31.0
+Japan,Taiwan,Missiles,2022,5,80,16.0
+Kuwait,Indonesia,Tanks,2022,4,140,35.0
+Kuwait,United Kingdom,Missiles,2022,36,180,5.0
+Kuwait,Colombia,Missiles,2022,12,348,29.0
+Kuwait,Turkey,Aircraft,2022,33,660,20.0
+Kuwait,Philippines,Missiles,2022,15,615,41.0
+Kuwait,Mexico,Missiles,2022,46,1242,27.0
+Mexico,Israel,Tanks,2022,33,1089,33.0
+Mexico,Belgium,Missiles,2022,36,972,27.0
+Mexico,Iran,Missiles,2022,19,931,49.0
+Netherlands,Germany,Tanks,2022,45,2070,46.0
+Netherlands,Turkey,Tanks,2022,34,1394,41.0
+Netherlands,South Korea,Missiles,2022,18,576,32.0
+Norway,Iraq,Missiles,2022,24,336,14.0
+Norway,China,Missiles,2022,35,805,23.0
+Norway,Romania,Tanks,2022,5,70,14.0
+Norway,United Kingdom,Tanks,2022,48,2304,48.0
+Norway,Colombia,Tanks,2022,16,688,43.0
+Pakistan,Colombia,Tanks,2022,1,23,23.0
+Pakistan,Norway,Aircraft,2022,3,108,36.0
+Poland,Mexico,Aircraft,2022,11,451,41.0
+Poland,Greece,Tanks,2022,24,192,8.0
+Poland,Norway,Aircraft,2022,26,546,21.0
+Romania,Switzerland,Aircraft,2022,2,52,26.0
+Russia,Sweden,Aircraft,2022,18,414,23.0
+Russia,Finland,Aircraft,2022,8,384,48.0
+Saudi Arabia,Iraq,Aircraft,2022,33,1287,39.0
+Saudi Arabia,Belgium,Missiles,2022,8,120,15.0
+Saudi Arabia,Colombia,Tanks,2022,41,1927,47.0
+Singapore,Romania,Missiles,2022,27,675,25.0
+South Korea,Japan,Aircraft,2022,38,1748,46.0
+South Korea,Germany,Missiles,2022,46,276,6.0
+South Korea,Canada,Aircraft,2022,17,340,20.0
+Spain,Pakistan,Tanks,2022,46,598,13.0
+Spain,Russia,Missiles,2022,36,1764,49.0
+Spain,Denmark,Missiles,2022,33,825,25.0
+Sweden,Colombia,Aircraft,2022,32,576,18.0
+Sweden,Norway,Missiles,2022,13,234,18.0
+Switzerland,Philippines,Aircraft,2022,12,264,22.0
+Switzerland,Russia,Aircraft,2022,10,50,5.0
+Switzerland,Spain,Aircraft,2022,35,805,23.0
+Switzerland,United States,Tanks,2022,32,1216,38.0
+Taiwan,Italy,Tanks,2022,15,690,46.0
+Taiwan,South Korea,Tanks,2022,38,684,18.0
+Taiwan,Greece,Tanks,2022,25,975,39.0
+Taiwan,Norway,Missiles,2022,10,110,11.0
+Turkey,Norway,Tanks,2022,5,165,33.0
+Ukraine,Australia,Tanks,2022,7,168,24.0
+Ukraine,Greece,Missiles,2022,13,520,40.0
+Ukraine,Canada,Tanks,2022,23,483,21.0
+United Kingdom,Germany,Aircraft,2022,25,875,35.0
+United Kingdom,Canada,Aircraft,2022,4,148,37.0
+United Kingdom,Spain,Aircraft,2022,43,1548,36.0
+Algeria,Netherlands,Aircraft,2023,49,2107,43.0
+Algeria,Spain,Missiles,2023,30,1110,37.0
+Algeria,China,Aircraft,2023,38,760,20.0
+Algeria,Iraq,Missiles,2023,35,1260,36.0
+Australia,Colombia,Missiles,2023,47,2115,45.0
+Australia,Romania,Tanks,2023,25,875,35.0
+Australia,Spain,Aircraft,2023,24,456,19.0
+Belgium,Turkey,Aircraft,2023,33,1485,45.0
+Brazil,Taiwan,Missiles,2023,46,690,15.0
+Brazil,Greece,Tanks,2023,1,45,45.0
+Brazil,Mexico,Tanks,2023,46,1886,41.0
+China,Pakistan,Aircraft,2023,9,351,39.0
+China,Norway,Aircraft,2023,3,39,13.0
+China,Spain,Aircraft,2023,15,300,20.0
+China,Romania,Aircraft,2023,35,1260,36.0
+Czech Republic,Taiwan,Aircraft,2023,42,714,17.0
+Czech Republic,Colombia,Aircraft,2023,45,1035,23.0
+Czech Republic,Singapore,Aircraft,2023,43,1333,31.0
+Czech Republic,Germany,Aircraft,2023,45,675,15.0
+Czech Republic,Italy,Missiles,2023,25,925,37.0
+Denmark,France,Aircraft,2023,16,720,45.0
+Denmark,Netherlands,Missiles,2023,11,66,6.0
+Finland,Singapore,Missiles,2023,49,1470,30.0
+Finland,Taiwan,Aircraft,2023,23,1081,47.0
+France,South Korea,Aircraft,2023,47,2068,44.0
+France,Australia,Missiles,2023,43,1419,33.0
+France,Sweden,Missiles,2023,47,2068,44.0
+France,Ukraine,Aircraft,2023,14,686,49.0
+France,Finland,Tanks,2023,2,30,15.0
+Germany,Poland,Tanks,2023,31,558,18.0
+Greece,Sweden,Missiles,2023,43,1634,38.0
+Greece,Saudi Arabia,Tanks,2023,1,30,30.0
+India,Israel,Aircraft,2023,13,442,34.0
+India,Philippines,Tanks,2023,30,1470,49.0
+Indonesia,Taiwan,Missiles,2023,8,176,22.0
+Iran,United States,Tanks,2023,1,37,37.0
+Iran,Singapore,Aircraft,2023,6,270,45.0
+Iran,Taiwan,Aircraft,2023,1,41,41.0
+Iraq,France,Aircraft,2023,22,902,41.0
+Japan,Mexico,Aircraft,2023,21,462,22.0
+Kuwait,Spain,Aircraft,2023,29,1305,45.0
+Mexico,Iran,Missiles,2023,50,1900,38.0
+Mexico,Italy,Missiles,2023,15,90,6.0
+Netherlands,Ukraine,Tanks,2023,4,20,5.0
+Pakistan,Ukraine,Missiles,2023,11,253,23.0
+Pakistan,United Kingdom,Missiles,2023,29,899,31.0
+Pakistan,Germany,Missiles,2023,28,1092,39.0
+Pakistan,Poland,Tanks,2023,47,987,21.0
+Pakistan,Czech Republic,Missiles,2023,8,192,24.0
+Philippines,Australia,Missiles,2023,43,1247,29.0
+Philippines,Denmark,Tanks,2023,9,342,38.0
+Philippines,Netherlands,Aircraft,2023,28,756,27.0
+Poland,Romania,Tanks,2023,43,1763,41.0
+Poland,Romania,Tanks,2023,8,392,49.0
+Poland,Spain,Missiles,2023,29,261,9.0
+Poland,Brazil,Missiles,2023,20,200,10.0
+Romania,Pakistan,Tanks,2023,45,675,15.0
+Russia,Germany,Missiles,2023,6,252,42.0
+Russia,Romania,Tanks,2023,17,204,12.0
+Russia,Kuwait,Missiles,2023,10,380,38.0
+Russia,Singapore,Tanks,2023,12,132,11.0
+Singapore,Turkey,Tanks,2023,37,1221,33.0
+Singapore,Romania,Missiles,2023,24,888,37.0
+Singapore,Turkey,Aircraft,2023,35,175,5.0
+Singapore,Sweden,Missiles,2023,16,784,49.0
+Singapore,United States,Aircraft,2023,25,550,22.0
+South Korea,Canada,Aircraft,2023,40,240,6.0
+South Korea,Pakistan,Aircraft,2023,19,228,12.0
+Spain,Iran,Tanks,2023,39,1014,26.0
+Spain,Finland,Tanks,2023,25,725,29.0
+Spain,Saudi Arabia,Missiles,2023,15,435,29.0
+Sweden,Indonesia,Tanks,2023,25,1000,40.0
+Sweden,Spain,Missiles,2023,32,352,11.0
+Sweden,Czech Republic,Tanks,2023,47,1786,38.0
+Sweden,Finland,Missiles,2023,8,120,15.0
+Switzerland,Iraq,Tanks,2023,6,126,21.0
+Switzerland,Canada,Aircraft,2023,34,1462,43.0
+Switzerland,Russia,Missiles,2023,42,336,8.0
+Switzerland,France,Aircraft,2023,22,418,19.0
+Switzerland,Finland,Missiles,2023,41,1230,30.0
+Switzerland,Iraq,Aircraft,2023,29,232,8.0
+Taiwan,Denmark,Tanks,2023,25,875,35.0
+Taiwan,Spain,Tanks,2023,7,238,34.0
+Taiwan,Philippines,Missiles,2023,6,168,28.0
+Turkey,Norway,Tanks,2023,13,377,29.0
+Ukraine,Australia,Missiles,2023,34,374,11.0
+Ukraine,Norway,Missiles,2023,14,602,43.0
+Ukraine,Czech Republic,Aircraft,2023,47,705,15.0
+United Kingdom,Sweden,Tanks,2023,28,448,16.0
+United Kingdom,Finland,Aircraft,2023,31,899,29.0
+United Kingdom,Japan,Aircraft,2023,32,1376,43.0
+United Kingdom,South Korea,Tanks,2023,33,396,12.0
+United Kingdom,Taiwan,Aircraft,2023,43,215,5.0
+United States,Ukraine,Tanks,2023,40,1440,36.0
+United States,Germany,Tanks,2023,19,684,36.0
+United States,Sweden,Aircraft,2023,45,1125,25.0
+United States,Singapore,Tanks,2023,24,960,40.0
+United States,Sweden,Missiles,2023,15,480,32.0
