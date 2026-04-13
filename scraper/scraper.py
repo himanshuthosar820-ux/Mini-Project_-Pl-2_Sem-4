@@ -54,6 +54,6 @@ final_df = pd.DataFrame(final_data, columns=[
     "Exporter", "Importer", "Weapon", "Year", "Units", "TIV"
 ])
 
-final_df.to_csv("./data/raw_data.csv", index=False)
+final_df.to_csv("../data/raw_data.csv", index=False)
 
 print("✅ SUCCESS!")
