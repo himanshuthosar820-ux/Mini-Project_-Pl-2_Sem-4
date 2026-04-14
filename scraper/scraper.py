@@ -27,13 +27,11 @@ for row in rows[1:]:
 
 df = pd.DataFrame(data, columns=headers)
 
-# Extract country column
-df = df[[df.columns[1]]]   # usually country column
+df = df[[df.columns[1]]]
 df.rename(columns={df.columns[0]: "Country"}, inplace=True)
 
 countries = df["Country"].tolist()
 
-# Generate dataset
 final_data = []
 
 for year in range(2000, 2024):
